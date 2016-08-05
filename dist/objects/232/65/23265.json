@@ -1,0 +1,94 @@
+{
+    "system_id": 23265, 
+    "permalink": "http://collections.acmi.net.au/objects/23265", 
+    "record_type": "Title", 
+    "acmi_identifier": "003849", 
+    "title": "Some curious experiments (TEFC)", 
+    "other_title": [
+        ""
+    ], 
+    "other_title_type": [
+        ""
+    ], 
+    "place_of_production": [
+        "United States"
+    ], 
+    "creation_date": [
+        "1960"
+    ], 
+    "creator_contributor_role": [
+        "Educational Services, Inc., production company", 
+        "Kevin Smith, producer", 
+        "Quentin Brown, director"
+    ], 
+    "colour": [
+        "Black and White"
+    ], 
+    "sound_audio": [
+        "Sound"
+    ], 
+    "language_keywords": [
+        "English"
+    ], 
+    "other_languages": [
+        ""
+    ], 
+    "other_language_type": [
+        ""
+    ], 
+    "other_language_notes": [
+        ""
+    ], 
+    "length": [
+        "00:21:02"
+    ], 
+    "audience_classification": [
+        ""
+    ], 
+    "viewing_guidelines": [
+        "Educational use only"
+    ], 
+    "form": [
+        "Short films", 
+        "Short films/Short films - United States"
+    ], 
+    "genre": [
+        "Educational & Instructional", 
+        "Documentary", 
+        "Educational & Instructional/Educational films", 
+        "Educational & Instructional/Instructional", 
+        "Documentary/Documentary films - United States"
+    ], 
+    "subject_group": [
+        "Communications, Infrastructure, & Transport/Aerodynamics", 
+        "Education, Instruction, Teaching & Schools/Science - Study and teaching", 
+        "Mathematics, Science & Technology/Fluid dynamics", 
+        "Mathematics, Science & Technology/Physics", 
+        "Mathematics, Science & Technology/Science - Study and teaching", 
+        "Mathematics, Science & Technology/Science - Experiments"
+    ], 
+    "abstract": [
+        ""
+    ], 
+    "description": [
+        "Episode number 1 of Series \"Fluid Dynamics of Drag\". Professor Ascher M. Shapiro describes experiments to show that in a certain range of speeds the drag of a sphere decreases as the speed increases; that at low speed a smooth sphere has less drag than a rough sphere, while at high speeds it is just the reverse; that stream lining reduces drag in air, but increases drag in glycerine."
+    ], 
+    "member_object": [
+        ""
+    ], 
+    "part_of_compliation_title_or_vod_package": [
+        ""
+    ], 
+    "related_objects": [
+        "Series; S00289; Fluid Dynamics of Drag; Active"
+    ], 
+    "object_relationship": [
+        "Series Title"
+    ], 
+    "related_object_notes": [
+        "1"
+    ], 
+    "active_carriers_public_types_and_formats_only": [
+        "16mm film; Access Print (Section 1)"
+    ]
+}

@@ -1,0 +1,106 @@
+{
+    "system_id": 58101, 
+    "permalink": "http://collections.acmi.net.au/objects/58101", 
+    "record_type": "Series", 
+    "acmi_identifier": "S00629", 
+    "title": "Radio Technician Training", 
+    "other_title": [
+        ""
+    ], 
+    "other_title_type": [
+        ""
+    ], 
+    "place_of_production": [
+        "Unknown"
+    ], 
+    "creation_date": [
+        ""
+    ], 
+    "creator_contributor_role": [
+        ""
+    ], 
+    "colour": [
+        ""
+    ], 
+    "sound_audio": [
+        ""
+    ], 
+    "language_keywords": [
+        ""
+    ], 
+    "other_languages": [
+        ""
+    ], 
+    "other_language_type": [
+        ""
+    ], 
+    "other_language_notes": [
+        ""
+    ], 
+    "length": [
+        ""
+    ], 
+    "audience_classification": [
+        ""
+    ], 
+    "viewing_guidelines": [
+        ""
+    ], 
+    "form": [
+        ""
+    ], 
+    "genre": [
+        ""
+    ], 
+    "subject_group": [
+        ""
+    ], 
+    "abstract": [
+        ""
+    ], 
+    "description": [
+        ""
+    ], 
+    "member_object": [
+        ""
+    ], 
+    "part_of_compliation_title_or_vod_package": [
+        ""
+    ], 
+    "related_objects": [
+        "Title; 000341; Amperes volts and ohms; Active; 1944", 
+        "Title; 000710; Audio oscillator operation; Active; 1944", 
+        "Title; 002578; Current and electromotive force; Active; 1944", 
+        "Title; 007988; Oscillators; Active; 1944", 
+        "Title; 008286; Periodic functions; Active; 1954", 
+        "Title; 008916; RCL. Parts 1 and 2; Active; 1944", 
+        "Title; 008917; Synchro systems. Part 1; Active; 1944", 
+        "Title; 008963; RCL: resistance, capacitance; Active; 1943", 
+        "Title; 008994; Rectangular co-ordinates; Active; 1944", 
+        "Title; 010203; Standing waves on transmission lines; Active; 1945", 
+        "Title; 010511; Synchro systems. Part 2; Active; 1944", 
+        "Title; 011105; Inductance; Active; 1943", 
+        "Title; 011463; Vectors; Active; 1944"
+    ], 
+    "object_relationship": [
+        "Episode", 
+        "Episode", 
+        "Episode", 
+        "Episode", 
+        "Episode", 
+        "Episode", 
+        "Episode", 
+        "Episode", 
+        "Episode", 
+        "Episode", 
+        "Episode", 
+        "Episode", 
+        "Episode"
+    ], 
+    "related_object_notes": [
+        ""
+    ], 
+    "active_carriers_public_types_and_formats_only": [
+        ""
+    ]
+}

@@ -1,0 +1,92 @@
+{
+    "system_id": 57808, 
+    "permalink": "http://collections.acmi.net.au/objects/57808", 
+    "record_type": "Series", 
+    "acmi_identifier": "S00178", 
+    "title": "Commonwealth Teleview", 
+    "other_title": [
+        ""
+    ], 
+    "other_title_type": [
+        ""
+    ], 
+    "place_of_production": [
+        "Unknown"
+    ], 
+    "creation_date": [
+        ""
+    ], 
+    "creator_contributor_role": [
+        ""
+    ], 
+    "colour": [
+        ""
+    ], 
+    "sound_audio": [
+        ""
+    ], 
+    "language_keywords": [
+        ""
+    ], 
+    "other_languages": [
+        ""
+    ], 
+    "other_language_type": [
+        ""
+    ], 
+    "other_language_notes": [
+        ""
+    ], 
+    "length": [
+        ""
+    ], 
+    "audience_classification": [
+        ""
+    ], 
+    "viewing_guidelines": [
+        ""
+    ], 
+    "form": [
+        ""
+    ], 
+    "genre": [
+        ""
+    ], 
+    "subject_group": [
+        ""
+    ], 
+    "abstract": [
+        ""
+    ], 
+    "description": [
+        ""
+    ], 
+    "member_object": [
+        ""
+    ], 
+    "part_of_compliation_title_or_vod_package": [
+        ""
+    ], 
+    "related_objects": [
+        "Title; 008692; The Commonwealth to the Commonwealth: Prince Philip's tour 1956; Active; 1957", 
+        "Title; 009854; Sir Robert Scott; Active; 1950", 
+        "Title; 312626; The Commonwealth to the Commonwealth: Dr. Nkrumah; Active; 1957", 
+        "Title; 313649; New town; Active; 1955", 
+        "Title; 313794; Sir John Cockroft; Active; 1956", 
+        "Title; 313957; Earl of Home; Active; 1957"
+    ], 
+    "object_relationship": [
+        "Episode", 
+        "Episode", 
+        "Episode", 
+        "Episode", 
+        "Episode", 
+        "Episode"
+    ], 
+    "related_object_notes": [
+        ""
+    ], 
+    "active_carriers_public_types_and_formats_only": [
+        ""
+    ]
+}

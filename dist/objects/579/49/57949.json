@@ -1,0 +1,97 @@
+{
+    "system_id": 57949, 
+    "permalink": "http://collections.acmi.net.au/objects/57949", 
+    "record_type": "Series", 
+    "acmi_identifier": "S00399", 
+    "title": "Judo", 
+    "other_title": [
+        ""
+    ], 
+    "other_title_type": [
+        ""
+    ], 
+    "place_of_production": [
+        "Unknown"
+    ], 
+    "creation_date": [
+        ""
+    ], 
+    "creator_contributor_role": [
+        ""
+    ], 
+    "colour": [
+        ""
+    ], 
+    "sound_audio": [
+        ""
+    ], 
+    "language_keywords": [
+        ""
+    ], 
+    "other_languages": [
+        ""
+    ], 
+    "other_language_type": [
+        ""
+    ], 
+    "other_language_notes": [
+        ""
+    ], 
+    "length": [
+        ""
+    ], 
+    "audience_classification": [
+        ""
+    ], 
+    "viewing_guidelines": [
+        ""
+    ], 
+    "form": [
+        ""
+    ], 
+    "genre": [
+        ""
+    ], 
+    "subject_group": [
+        "Hobbies, Recreation & Sport/Martial arts"
+    ], 
+    "abstract": [
+        ""
+    ], 
+    "description": [
+        ""
+    ], 
+    "member_object": [
+        ""
+    ], 
+    "part_of_compliation_title_or_vod_package": [
+        ""
+    ], 
+    "related_objects": [
+        "Title; 005761; Basic judo movements; Active; 1973", 
+        "Title; 005762; Combination attacks; Active; 1970", 
+        "Title; 005763; Counter attacks; Active; 1970", 
+        "Title; 005766; Further skills; Active; 1973", 
+        "Title; 005764; Extending the skill range; Active; 1973", 
+        "Title; 005765; Further extensions to the skill range; Active; 1972"
+    ], 
+    "object_relationship": [
+        "Episode", 
+        "Episode", 
+        "Episode", 
+        "Episode", 
+        "Episode", 
+        "Episode"
+    ], 
+    "related_object_notes": [
+        "", 
+        "", 
+        "", 
+        "", 
+        "2", 
+        "3"
+    ], 
+    "active_carriers_public_types_and_formats_only": [
+        ""
+    ]
+}

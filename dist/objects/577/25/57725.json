@@ -1,0 +1,100 @@
+{
+    "system_id": 57725, 
+    "permalink": "http://collections.acmi.net.au/objects/57725", 
+    "record_type": "Series", 
+    "acmi_identifier": "S00072", 
+    "title": "Atoms for Peace", 
+    "other_title": [
+        ""
+    ], 
+    "other_title_type": [
+        ""
+    ], 
+    "place_of_production": [
+        "Unknown"
+    ], 
+    "creation_date": [
+        ""
+    ], 
+    "creator_contributor_role": [
+        ""
+    ], 
+    "colour": [
+        ""
+    ], 
+    "sound_audio": [
+        ""
+    ], 
+    "language_keywords": [
+        ""
+    ], 
+    "other_languages": [
+        ""
+    ], 
+    "other_language_type": [
+        ""
+    ], 
+    "other_language_notes": [
+        ""
+    ], 
+    "length": [
+        ""
+    ], 
+    "audience_classification": [
+        ""
+    ], 
+    "viewing_guidelines": [
+        ""
+    ], 
+    "form": [
+        ""
+    ], 
+    "genre": [
+        ""
+    ], 
+    "subject_group": [
+        ""
+    ], 
+    "abstract": [
+        ""
+    ], 
+    "description": [
+        ""
+    ], 
+    "member_object": [
+        ""
+    ], 
+    "part_of_compliation_title_or_vod_package": [
+        ""
+    ], 
+    "related_objects": [
+        "Title; 006886; Medicine; Active; 1957", 
+        "Title; 012135; Working together; Active; 1958", 
+        "Title; 005455; Introducing the atom; Active; 1955", 
+        "Title; 000203; Agriculture, industry and power; Active", 
+        "Title; 009495; Scientific advancement; Active; 1956", 
+        "Title; 011107; Training men for the atomic age; Active; 1957", 
+        "Title; 000698; Atomic power and the U.S.; Active; 1958"
+    ], 
+    "object_relationship": [
+        "Episode", 
+        "Episode", 
+        "Episode", 
+        "Episode", 
+        "Episode", 
+        "Episode", 
+        "Episode"
+    ], 
+    "related_object_notes": [
+        "", 
+        "", 
+        "1", 
+        "3", 
+        "4", 
+        "6", 
+        "7"
+    ], 
+    "active_carriers_public_types_and_formats_only": [
+        ""
+    ]
+}

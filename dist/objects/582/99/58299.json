@@ -1,0 +1,106 @@
+{
+    "system_id": 58299, 
+    "permalink": "http://collections.acmi.net.au/objects/58299", 
+    "record_type": "Series", 
+    "acmi_identifier": "S00898", 
+    "title": "The Web of life", 
+    "other_title": [
+        ""
+    ], 
+    "other_title_type": [
+        ""
+    ], 
+    "place_of_production": [
+        "Unknown"
+    ], 
+    "creation_date": [
+        ""
+    ], 
+    "creator_contributor_role": [
+        ""
+    ], 
+    "colour": [
+        ""
+    ], 
+    "sound_audio": [
+        ""
+    ], 
+    "language_keywords": [
+        ""
+    ], 
+    "other_languages": [
+        ""
+    ], 
+    "other_language_type": [
+        ""
+    ], 
+    "other_language_notes": [
+        ""
+    ], 
+    "length": [
+        ""
+    ], 
+    "audience_classification": [
+        ""
+    ], 
+    "viewing_guidelines": [
+        ""
+    ], 
+    "form": [
+        ""
+    ], 
+    "genre": [
+        ""
+    ], 
+    "subject_group": [
+        ""
+    ], 
+    "abstract": [
+        ""
+    ], 
+    "description": [
+        ""
+    ], 
+    "member_object": [
+        ""
+    ], 
+    "part_of_compliation_title_or_vod_package": [
+        ""
+    ], 
+    "related_objects": [
+        "Title; 013022; The Living rain forest; Active; 1972", 
+        "Title; 013529; The Living savanna; Active; 1972", 
+        "Title; 015526; The Desert hopping mouse; Active; 1982", 
+        "Title; 507741; Lifetimes of change: development and growth; Active; 1983", 
+        "Title; 014338; The Living tundra; Active; 1972", 
+        "Title; 013645; The Living lakes; Active; 1972", 
+        "Title; 014339; The Living river; Active; 1972", 
+        "Title; 012627; The Living mountains; Active; 1972", 
+        "Title; 507738; The Mammalian heart; Active; 1982"
+    ], 
+    "object_relationship": [
+        "Episode", 
+        "Episode", 
+        "Episode", 
+        "Episode", 
+        "Episode", 
+        "Episode", 
+        "Episode", 
+        "Episode", 
+        "Episode"
+    ], 
+    "related_object_notes": [
+        "", 
+        "", 
+        "", 
+        "", 
+        "2", 
+        "3", 
+        "4", 
+        "5", 
+        "11"
+    ], 
+    "active_carriers_public_types_and_formats_only": [
+        ""
+    ]
+}

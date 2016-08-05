@@ -1,0 +1,106 @@
+{
+    "system_id": 57896, 
+    "permalink": "http://collections.acmi.net.au/objects/57896", 
+    "record_type": "Series", 
+    "acmi_identifier": "S00317", 
+    "title": "Gas Welding", 
+    "other_title": [
+        ""
+    ], 
+    "other_title_type": [
+        ""
+    ], 
+    "place_of_production": [
+        "Unknown"
+    ], 
+    "creation_date": [
+        ""
+    ], 
+    "creator_contributor_role": [
+        ""
+    ], 
+    "colour": [
+        ""
+    ], 
+    "sound_audio": [
+        ""
+    ], 
+    "language_keywords": [
+        ""
+    ], 
+    "other_languages": [
+        ""
+    ], 
+    "other_language_type": [
+        ""
+    ], 
+    "other_language_notes": [
+        ""
+    ], 
+    "length": [
+        ""
+    ], 
+    "audience_classification": [
+        ""
+    ], 
+    "viewing_guidelines": [
+        ""
+    ], 
+    "form": [
+        ""
+    ], 
+    "genre": [
+        ""
+    ], 
+    "subject_group": [
+        ""
+    ], 
+    "abstract": [
+        ""
+    ], 
+    "description": [
+        ""
+    ], 
+    "member_object": [
+        ""
+    ], 
+    "part_of_compliation_title_or_vod_package": [
+        ""
+    ], 
+    "related_objects": [
+        "Title; 004204; Gas welding equipment; Active; 1975", 
+        "Title; 009363; Safe setting up procedures; Active; 1975", 
+        "Title; 009353; Safe closing down procedures; Active; 1975", 
+        "Title; 003807; Flame adjustment and tip cleaning; Active; 1974", 
+        "Title; 001598; Butt welds in sheet metal; Active; 1975", 
+        "Title; 010908; Three types of welds; Active; 1975", 
+        "Title; 001437; Braze welding; Active; 1974", 
+        "Title; 001439; Brazing a lap joint; Active; 1974", 
+        "Title; 003808; Flame cutting; Active; 1974"
+    ], 
+    "object_relationship": [
+        "Episode", 
+        "Episode", 
+        "Episode", 
+        "Episode", 
+        "Episode", 
+        "Episode", 
+        "Episode", 
+        "Episode", 
+        "Episode"
+    ], 
+    "related_object_notes": [
+        "1", 
+        "2", 
+        "3", 
+        "4", 
+        "5", 
+        "6", 
+        "7", 
+        "8", 
+        "9"
+    ], 
+    "active_carriers_public_types_and_formats_only": [
+        ""
+    ]
+}

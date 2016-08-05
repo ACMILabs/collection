@@ -1,0 +1,91 @@
+{
+    "system_id": 39383, 
+    "permalink": "http://collections.acmi.net.au/objects/39383", 
+    "record_type": "Title", 
+    "acmi_identifier": "304698", 
+    "title": "Time series", 
+    "other_title": [
+        ""
+    ], 
+    "other_title_type": [
+        ""
+    ], 
+    "place_of_production": [
+        "United States"
+    ], 
+    "creation_date": [
+        "1988"
+    ], 
+    "creator_contributor_role": [
+        "Australian Association of Mathematics Teachers, distributor", 
+        "American Statistical Association, production company", 
+        "COMAP, production company", 
+        "Chedd-Angier Productions, production company", 
+        "Joseph Blatt, producer/director"
+    ], 
+    "colour": [
+        "Colour"
+    ], 
+    "sound_audio": [
+        "Sound"
+    ], 
+    "language_keywords": [
+        "English"
+    ], 
+    "other_languages": [
+        ""
+    ], 
+    "other_language_type": [
+        ""
+    ], 
+    "other_language_notes": [
+        ""
+    ], 
+    "length": [
+        "00:30:00"
+    ], 
+    "audience_classification": [
+        ""
+    ], 
+    "viewing_guidelines": [
+        ""
+    ], 
+    "form": [
+        "Short films", 
+        "Short films/Short films - United States"
+    ], 
+    "genre": [
+        "Educational & Instructional", 
+        "Educational & Instructional/Instructional"
+    ], 
+    "subject_group": [
+        "Mathematics, Science & Technology/Statistics", 
+        "Mathematics, Science & Technology/Time"
+    ], 
+    "abstract": [
+        ""
+    ], 
+    "description": [
+        "Episode number 6 of Series \"Against all odds: inside statistics\". Theresa M. Amabile introduces the new dimension of time, and how patterns are identified over time. The first section examines cycles and trends, such as commuting journey time and biorhythms to enable us to choose the best time to travel and combat jet-lag. The second section deals with seasonal variations and seasonal adjustments, such as retail sales patterns, unemployment and ozone hole variations. We are then shown how to smooth such data by using a running median and by averaging and finally we are shown how some apparent cycles or trends can be misleading, as in the controversial area of predicting stock exchange fluctuations."
+    ], 
+    "member_object": [
+        ""
+    ], 
+    "part_of_compliation_title_or_vod_package": [
+        ""
+    ], 
+    "related_objects": [
+        "Series; S01063; Against all odds: inside statistics; Active; 1989"
+    ], 
+    "object_relationship": [
+        "Series Title"
+    ], 
+    "related_object_notes": [
+        "6"
+    ], 
+    "active_carriers_public_types_and_formats_only": [
+        "VHS; Access Print (Section 1)", 
+        "VHS; Access Print (Section 1)", 
+        "VHS; Access Print (Section 1)"
+    ]
+}

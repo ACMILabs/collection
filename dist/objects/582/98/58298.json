@@ -1,0 +1,100 @@
+{
+    "system_id": 58298, 
+    "permalink": "http://collections.acmi.net.au/objects/58298", 
+    "record_type": "Series", 
+    "acmi_identifier": "S00894", 
+    "title": "Weaving", 
+    "other_title": [
+        ""
+    ], 
+    "other_title_type": [
+        ""
+    ], 
+    "place_of_production": [
+        "Unknown"
+    ], 
+    "creation_date": [
+        ""
+    ], 
+    "creator_contributor_role": [
+        ""
+    ], 
+    "colour": [
+        ""
+    ], 
+    "sound_audio": [
+        ""
+    ], 
+    "language_keywords": [
+        ""
+    ], 
+    "other_languages": [
+        ""
+    ], 
+    "other_language_type": [
+        ""
+    ], 
+    "other_language_notes": [
+        ""
+    ], 
+    "length": [
+        ""
+    ], 
+    "audience_classification": [
+        ""
+    ], 
+    "viewing_guidelines": [
+        ""
+    ], 
+    "form": [
+        ""
+    ], 
+    "genre": [
+        ""
+    ], 
+    "subject_group": [
+        ""
+    ], 
+    "abstract": [
+        ""
+    ], 
+    "description": [
+        ""
+    ], 
+    "member_object": [
+        ""
+    ], 
+    "part_of_compliation_title_or_vod_package": [
+        ""
+    ], 
+    "related_objects": [
+        "Title; 009830; Simple looms; Active", 
+        "Title; 013964; The Rigid Heddle Frame; Active", 
+        "Title; 505431; Warping mill; Active; 1975", 
+        "Title; 012935; Frame looms; Active; 1975", 
+        "Title; 012934; Inkle looms; Active; 1975", 
+        "Title; 012931; Table looms; Active", 
+        "Title; 505432; Table looms; Active; 1975"
+    ], 
+    "object_relationship": [
+        "Episode", 
+        "Episode", 
+        "Episode", 
+        "Episode", 
+        "Episode", 
+        "Episode", 
+        "Episode"
+    ], 
+    "related_object_notes": [
+        "", 
+        "", 
+        "", 
+        "2", 
+        "3", 
+        "5", 
+        "6"
+    ], 
+    "active_carriers_public_types_and_formats_only": [
+        ""
+    ]
+}

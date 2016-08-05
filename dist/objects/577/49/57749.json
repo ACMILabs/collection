@@ -1,0 +1,106 @@
+{
+    "system_id": 57749, 
+    "permalink": "http://collections.acmi.net.au/objects/57749", 
+    "record_type": "Series", 
+    "acmi_identifier": "S00100", 
+    "title": "Australian Wildlife", 
+    "other_title": [
+        ""
+    ], 
+    "other_title_type": [
+        ""
+    ], 
+    "place_of_production": [
+        "Unknown"
+    ], 
+    "creation_date": [
+        ""
+    ], 
+    "creator_contributor_role": [
+        ""
+    ], 
+    "colour": [
+        ""
+    ], 
+    "sound_audio": [
+        ""
+    ], 
+    "language_keywords": [
+        ""
+    ], 
+    "other_languages": [
+        ""
+    ], 
+    "other_language_type": [
+        ""
+    ], 
+    "other_language_notes": [
+        ""
+    ], 
+    "length": [
+        ""
+    ], 
+    "audience_classification": [
+        ""
+    ], 
+    "viewing_guidelines": [
+        ""
+    ], 
+    "form": [
+        ""
+    ], 
+    "genre": [
+        ""
+    ], 
+    "subject_group": [
+        ""
+    ], 
+    "abstract": [
+        ""
+    ], 
+    "description": [
+        ""
+    ], 
+    "member_object": [
+        ""
+    ], 
+    "part_of_compliation_title_or_vod_package": [
+        ""
+    ], 
+    "related_objects": [
+        "Title; 000487; Appointment at Seal Rocks; Active; 1963", 
+        "Title; 005806; Kangaroos. Part 1. Biography [Greek version]; Active; 1970", 
+        "Title; 005807; Kangaroos. Part 1. Biography [Italian version]; Active; 1970", 
+        "Title; 005808; Kangaroos. Part 2. Varieties; Active; 1970", 
+        "Title; 502995; Kangaroos. Part 1. Biography; Active; 1970", 
+        "Title; 007792; Offspring of isolation; Active; 1963", 
+        "Title; 302174; The Flooded forest; Active; 1963", 
+        "Title; 007777; Ocean pastures; Active; 1962", 
+        "Title; 000899; The Australian mallee; Active; 1963"
+    ], 
+    "object_relationship": [
+        "Episode", 
+        "Episode", 
+        "Episode", 
+        "Episode", 
+        "Episode", 
+        "Episode", 
+        "Episode", 
+        "Episode", 
+        "Episode"
+    ], 
+    "related_object_notes": [
+        "", 
+        "", 
+        "", 
+        "", 
+        "", 
+        "1", 
+        "2", 
+        "4", 
+        "5"
+    ], 
+    "active_carriers_public_types_and_formats_only": [
+        ""
+    ]
+}

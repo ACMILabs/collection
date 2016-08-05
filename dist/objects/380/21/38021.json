@@ -1,0 +1,99 @@
+{
+    "system_id": 38021, 
+    "permalink": "http://collections.acmi.net.au/objects/38021", 
+    "record_type": "Title", 
+    "acmi_identifier": "303269", 
+    "title": "Learning", 
+    "other_title": [
+        ""
+    ], 
+    "other_title_type": [
+        ""
+    ], 
+    "place_of_production": [
+        "United States"
+    ], 
+    "creation_date": [
+        "1989"
+    ], 
+    "creator_contributor_role": [
+        "VEA, distributor", 
+        "WGBH (Boston), production company", 
+        "Tuggelin Yourgrau, co-producer", 
+        "David Espar, co-producer"
+    ], 
+    "colour": [
+        "Colour"
+    ], 
+    "sound_audio": [
+        "Sound"
+    ], 
+    "language_keywords": [
+        "English"
+    ], 
+    "other_languages": [
+        ""
+    ], 
+    "other_language_type": [
+        ""
+    ], 
+    "other_language_notes": [
+        ""
+    ], 
+    "length": [
+        "00:30:00"
+    ], 
+    "audience_classification": [
+        ""
+    ], 
+    "viewing_guidelines": [
+        ""
+    ], 
+    "form": [
+        "Short films", 
+        "Short films/Short films - United States"
+    ], 
+    "genre": [
+        "Documentary", 
+        "Documentary/Documentary films - United States"
+    ], 
+    "subject_group": [
+        "Education, Instruction, Teaching & Schools/Learning, Psychology o", 
+        "Food, Health, Lifestyle, Medicine, Psychology & Safety/Conditioned response", 
+        "Food, Health, Lifestyle, Medicine, Psychology & Safety/Pavlov, Ivan Petrovitch, 1849-1936", 
+        "Food, Health, Lifestyle, Medicine, Psychology & Safety/Skinner, B. F. (Burrhus Frederic), 1904-", 
+        "Food, Health, Lifestyle, Medicine, Psychology & Safety/Thorndike, E. L. (Edward Lee), 1874-1949", 
+        "People/Pavlov, Ivan Petrovitch, 1849-1936", 
+        "People/Skinner, B. F. (Burrhus Frederic), 1904-", 
+        "People/Thorndike, E. L. (Edward Lee), 1874-1949"
+    ], 
+    "abstract": [
+        ""
+    ], 
+    "description": [
+        "Episode number 8 of Series \"Discovering psychology\". For every animal the name of the game is survival. In order to achieve this all animals have inbuilt reflexes or ready made reactions to threats and fixed action patterns such as migration. In addition animals have, to a lesser or greater degree, a capacity to learn from experience. In this program Philip Zimbardo looks at different theories of learning, from Pavlov's classical conditioning, Thorndike's instrumental conditioning to B.F. Skinner's operant conditioning. Includes archival film of classical experiments."
+    ], 
+    "member_object": [
+        ""
+    ], 
+    "part_of_compliation_title_or_vod_package": [
+        ""
+    ], 
+    "related_objects": [
+        "Series; S00995; Discovering psychology; Active; 1989", 
+        "Title; 303219; Learning; Active; 1990"
+    ], 
+    "object_relationship": [
+        "Series Title", 
+        "Related Title"
+    ], 
+    "related_object_notes": [
+        "8"
+    ], 
+    "active_carriers_public_types_and_formats_only": [
+        "VHS; Access Print (Section 1)", 
+        "VHS; Access Print (Section 1)", 
+        "VHS; Access Print (Section 1)", 
+        "VHS; Access Print (Section 1)"
+    ]
+}

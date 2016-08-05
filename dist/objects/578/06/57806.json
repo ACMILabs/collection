@@ -1,0 +1,98 @@
+{
+    "system_id": 57806, 
+    "permalink": "http://collections.acmi.net.au/objects/57806", 
+    "record_type": "Series", 
+    "acmi_identifier": "S00176", 
+    "title": "College Physics", 
+    "other_title": [
+        ""
+    ], 
+    "other_title_type": [
+        ""
+    ], 
+    "place_of_production": [
+        "Unknown"
+    ], 
+    "creation_date": [
+        ""
+    ], 
+    "creator_contributor_role": [
+        ""
+    ], 
+    "colour": [
+        ""
+    ], 
+    "sound_audio": [
+        ""
+    ], 
+    "language_keywords": [
+        ""
+    ], 
+    "other_languages": [
+        ""
+    ], 
+    "other_language_type": [
+        ""
+    ], 
+    "other_language_notes": [
+        ""
+    ], 
+    "length": [
+        ""
+    ], 
+    "audience_classification": [
+        ""
+    ], 
+    "viewing_guidelines": [
+        ""
+    ], 
+    "form": [
+        ""
+    ], 
+    "genre": [
+        ""
+    ], 
+    "subject_group": [
+        ""
+    ], 
+    "abstract": [
+        ""
+    ], 
+    "description": [
+        ""
+    ], 
+    "member_object": [
+        ""
+    ], 
+    "part_of_compliation_title_or_vod_package": [
+        ""
+    ], 
+    "related_objects": [
+        "Title; 001753; The Carnot cycle and the Kelvin temperature scale; Active; 1951", 
+        "Title; 002976; Doppler effect; Active; 1951", 
+        "Title; 004207; The Otto cycle: gasoline engine; Active; 1951", 
+        "Title; 006862; Measurement of the speed of light; Active; 1959", 
+        "Title; 007748; Nuclear reactor; Active; 1954", 
+        "Title; 009829; Simple harmonic motion; Active; 1953", 
+        "Title; 010218; Stationary transverse waves; Active; 1953", 
+        "Title; 011282; The U238 radioactive series; Active; 1954", 
+        "Title; 011337; Uniform circular motion; Active; 1951"
+    ], 
+    "object_relationship": [
+        "Episode", 
+        "Episode", 
+        "Episode", 
+        "Episode", 
+        "Episode", 
+        "Episode", 
+        "Episode", 
+        "Episode", 
+        "Episode"
+    ], 
+    "related_object_notes": [
+        ""
+    ], 
+    "active_carriers_public_types_and_formats_only": [
+        ""
+    ]
+}

@@ -1,0 +1,106 @@
+{
+    "system_id": 58103, 
+    "permalink": "http://collections.acmi.net.au/objects/58103", 
+    "record_type": "Series", 
+    "acmi_identifier": "S00631", 
+    "title": "Refrigeration Service", 
+    "other_title": [
+        ""
+    ], 
+    "other_title_type": [
+        ""
+    ], 
+    "place_of_production": [
+        "Unknown"
+    ], 
+    "creation_date": [
+        ""
+    ], 
+    "creator_contributor_role": [
+        ""
+    ], 
+    "colour": [
+        ""
+    ], 
+    "sound_audio": [
+        ""
+    ], 
+    "language_keywords": [
+        ""
+    ], 
+    "other_languages": [
+        ""
+    ], 
+    "other_language_type": [
+        ""
+    ], 
+    "other_language_notes": [
+        ""
+    ], 
+    "length": [
+        ""
+    ], 
+    "audience_classification": [
+        ""
+    ], 
+    "viewing_guidelines": [
+        ""
+    ], 
+    "form": [
+        ""
+    ], 
+    "genre": [
+        ""
+    ], 
+    "subject_group": [
+        ""
+    ], 
+    "abstract": [
+        ""
+    ], 
+    "description": [
+        ""
+    ], 
+    "member_object": [
+        ""
+    ], 
+    "part_of_compliation_title_or_vod_package": [
+        ""
+    ], 
+    "related_objects": [
+        "Title; 000105; Adding or removing refrigerent; Active; 1945", 
+        "Title; 000115; Adjusting pressure actuated temperature control devices; Active; 1945", 
+        "Title; 001934; Checking and replacing a float valve; Active; 1945", 
+        "Title; 001935; Checking the system. Pt. I: general procedure; Active; 1945", 
+        "Title; 001936; Checking the system. Pt. II: trouble shooting; Active; 1945", 
+        "Title; 009035; Removing and installing a cooling unit; Active; 1955", 
+        "Title; 009036; Removing or installing a compressor or condenser; Active; 1955", 
+        "Title; 000114; Adjusting and repairing the thermo expansion valve; Active; 1945", 
+        "Title; 000113; Adjusting and checking expansion valve; Active; 1945"
+    ], 
+    "object_relationship": [
+        "Episode", 
+        "Episode", 
+        "Episode", 
+        "Episode", 
+        "Episode", 
+        "Episode", 
+        "Episode", 
+        "Episode", 
+        "Episode"
+    ], 
+    "related_object_notes": [
+        "", 
+        "", 
+        "", 
+        "", 
+        "", 
+        "", 
+        "", 
+        "1", 
+        "7"
+    ], 
+    "active_carriers_public_types_and_formats_only": [
+        ""
+    ]
+}

@@ -1,0 +1,104 @@
+{
+    "system_id": 58224, 
+    "permalink": "http://collections.acmi.net.au/objects/58224", 
+    "record_type": "Series", 
+    "acmi_identifier": "S00793", 
+    "title": "The Improving Service", 
+    "other_title": [
+        ""
+    ], 
+    "other_title_type": [
+        ""
+    ], 
+    "place_of_production": [
+        "Unknown"
+    ], 
+    "creation_date": [
+        ""
+    ], 
+    "creator_contributor_role": [
+        ""
+    ], 
+    "colour": [
+        ""
+    ], 
+    "sound_audio": [
+        ""
+    ], 
+    "language_keywords": [
+        ""
+    ], 
+    "other_languages": [
+        ""
+    ], 
+    "other_language_type": [
+        ""
+    ], 
+    "other_language_notes": [
+        ""
+    ], 
+    "length": [
+        ""
+    ], 
+    "audience_classification": [
+        ""
+    ], 
+    "viewing_guidelines": [
+        ""
+    ], 
+    "form": [
+        ""
+    ], 
+    "genre": [
+        "Educational & Instructional", 
+        "Educational & Instructional/Instructional"
+    ], 
+    "subject_group": [
+        ""
+    ], 
+    "abstract": [
+        ""
+    ], 
+    "description": [
+        ""
+    ], 
+    "member_object": [
+        ""
+    ], 
+    "part_of_compliation_title_or_vod_package": [
+        ""
+    ], 
+    "related_objects": [
+        "Title; 017776; Service Leadership; Active; 1988", 
+        "Title; 017773; Getting organised to serve; Active; 1988", 
+        "Title; 017770; Selecting for Service; Active; 1988", 
+        "Title; 017774; Supervising for Service; Active; 1988", 
+        "Title; 017772; Serving People; Active; 1988", 
+        "Title; 017775; Selling Our Services; Active; 1988", 
+        "Title; 017777; Unhappy Customers; Active; 1988", 
+        "Title; 017771; Service Burnout; Active; 1988"
+    ], 
+    "object_relationship": [
+        "Episode", 
+        "Episode", 
+        "Episode", 
+        "Episode", 
+        "Episode", 
+        "Episode", 
+        "Episode", 
+        "Episode"
+    ], 
+    "related_object_notes": [
+        "1", 
+        "2", 
+        "3", 
+        "4", 
+        "5", 
+        "6", 
+        "7", 
+        "8"
+    ], 
+    "active_carriers_public_types_and_formats_only": [
+        ""
+    ]
+}

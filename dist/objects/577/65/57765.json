@@ -1,0 +1,112 @@
+{
+    "system_id": 57765, 
+    "permalink": "http://collections.acmi.net.au/objects/57765", 
+    "record_type": "Series", 
+    "acmi_identifier": "S00122", 
+    "title": "Basic Music Techniques", 
+    "other_title": [
+        ""
+    ], 
+    "other_title_type": [
+        ""
+    ], 
+    "place_of_production": [
+        "Unknown"
+    ], 
+    "creation_date": [
+        ""
+    ], 
+    "creator_contributor_role": [
+        ""
+    ], 
+    "colour": [
+        ""
+    ], 
+    "sound_audio": [
+        ""
+    ], 
+    "language_keywords": [
+        ""
+    ], 
+    "other_languages": [
+        ""
+    ], 
+    "other_language_type": [
+        ""
+    ], 
+    "other_language_notes": [
+        ""
+    ], 
+    "length": [
+        ""
+    ], 
+    "audience_classification": [
+        ""
+    ], 
+    "viewing_guidelines": [
+        ""
+    ], 
+    "form": [
+        ""
+    ], 
+    "genre": [
+        ""
+    ], 
+    "subject_group": [
+        ""
+    ], 
+    "abstract": [
+        ""
+    ], 
+    "description": [
+        ""
+    ], 
+    "member_object": [
+        ""
+    ], 
+    "part_of_compliation_title_or_vod_package": [
+        ""
+    ], 
+    "related_objects": [
+        "Title; 001043; Bassoon and contrabassoon; Active; 1975", 
+        "Title; 011217; Tuned percussion; Active; 1975", 
+        "Title; 011386; Untuned percussion; Active; 1975", 
+        "Title; 011554; Violin and viola; Active; 1975", 
+        "Title; 011555; Violoncello and double bass; Active; 1975", 
+        "Title; 003855; Flute and piccolo; Active; 1975", 
+        "Title; 007773; Oboe and coranglais; Active; 1975", 
+        "Title; 002131; Clarinet and bass clarinet; Active; 1975", 
+        "Title; 004054; The French horn; Active; 1975", 
+        "Title; 011187; Trumpet and cornet; Active; 1975", 
+        "Title; 011156; Trombone and tuba; Active; 1975"
+    ], 
+    "object_relationship": [
+        "Episode", 
+        "Episode", 
+        "Episode", 
+        "Episode", 
+        "Episode", 
+        "Episode", 
+        "Episode", 
+        "Episode", 
+        "Episode", 
+        "Episode", 
+        "Episode"
+    ], 
+    "related_object_notes": [
+        "", 
+        "", 
+        "", 
+        "", 
+        "", 
+        "3", 
+        "4", 
+        "5", 
+        "7", 
+        "8", 
+        "9"
+    ], 
+    "active_carriers_public_types_and_formats_only": [
+        ""
+    ]
+}
