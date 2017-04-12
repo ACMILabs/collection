@@ -39,36 +39,36 @@ Individual JSON files can be found in the `dist` folder, under `objects`. The fi
 
 This intial data release is a flattened version of the dataset, and many database values have been aggregated for the release. The keys for each object are:
 
-- abstract
-- acmi_identifier
-- active_carriers_public_types_and_formats_only
-- audience_classification
-- colour
-- creation_date
-- creator_contributor_role
-- description
-- form
-- genre
-- language_keywords
-- length
-- member_object
-- object_relationship
-- other_language_notes
-- other_language_type
-- other_languages
-- other_title
-- other_title_type
-- part_of_compilation_title_or_vod_package
-- permalink
-- place_of_production
-- record_type
-- related_object_notes
-- related_objects
-- sound_audio
-- subject_group
-- system_id
-- title
-- viewing_guidelines
+* `abstract` - A short one line description of the work's content
+* `acmi_identifier` - An internally used identifier for the record, with a non uniform pattern. In most cases, use the system_id to uniquely identify the record instead.
+* `active_carriers_public_types_and_formats_only` - The format that the title is held in ACMI's collection (e.g. 16mm film, VHS, DVD)
+* `audience_classification` - The formal classification from the Australian Classification Board, or the ACMI provided classification for the Mediatheque. Multiple values are pipe (|) separated.
+* `colour` - Black and White, Colour, Tinted, or a combination (separated by a pipe character)
+* `creation_date` - The year (or thereabouts of production). Formats include YYYY, a range is YYYY-YYYY, approximate years are Circa YYYY, or Circa YYYY-Circa YYYY. Dates with specific month will be in MMM YYYY format. Dates with date, month and year, are in DD MMM YYYY format. Some records may carry the decade.
+* `creator_contributor_role` - The name of a creator and their production role in the context of this work, separated by a comma.
+* `description` - Free text description of the work's content.
+* `form` - The title's form (e.g. Short films). Child forms are described with its relationship to its parent, separated by a forward slash. (e.g. Short films/Short films - Great Britain).
+* `genre` - The genre or genres for the title. Child genres are described with its relationship to its parent, separated by a forward slash. (e.g. Documentary/Documentary films - Great Britain).
+* `language_keywords` - The primary language of any spoken content in the work.
+* `length` - The length of the title in hours, minutes, seconds separated by a colon. Titles with multiple lengths will be separated by a pipe character.
+* `member_object` - In a grouped title, member objects are the children of this work (e.g. Episodes of a television series).
+* `object_relationship` - A description of the member object relationship.
+* `other_language_notes` - Free text notes on specifics associated with `other_languages`.
+* `other_language_type` - The type of secondary languages (e.g. subtitle or intertitle).
+* `other_languages` - Secondary languages of any spoken content in the work.
+* `other_title` - Alternative titles for the work.
+* `other_title_type` - The type of alternative title for the work.
+* `part_of_compilation_title_or_vod_package` - Other part of `member_object`, this is the parent of the current title.
+* `permalink` - A permanent URL to this object as it appears on the ACMI collection website.
+* `place_of_production` - The place (usually country) where the work was produced, Australian content may be more specific.
+* `record_type` - The categorisation of the particular data structure used within the colllection management system (used administatively).
+* `related_object_notes` - Free text description of the nature of the `related_objects` relationship.
+* `related_objects` - Without being a part of, a relationship to another object (e.g. a sequel / prequel or a remake).
+* `sound_audio` - Silent vs Sound.
+* `subject_group` - The subject content of the work, grouped by topic.
+* `system_id` - A unique identifier for the record, this is a reliable unique identifier for linking this ID to other systems, and it is used in constructing URLs for the ACMI collection website.
+* `title` - The primary title of the work.
+* `viewing_guidelines` - Discretionary warnings or notices for viewers of the work, often related to the `audience_classification` (e.g. notices that say, the following contains course language, adult themes, etc).
 
 ### Data types
 
