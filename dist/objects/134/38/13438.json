@@ -1,0 +1,112 @@
+{
+    "system_id": 13438, 
+    "permalink": "http://collections.acmi.net.au/objects/13438", 
+    "record_type": "Title", 
+    "acmi_identifier": "B1006992", 
+    "title": "Violence is Violence", 
+    "other_title": [
+        ""
+    ], 
+    "other_title_type": [
+        ""
+    ], 
+    "place_of_production": [
+        "Australia"
+    ], 
+    "creation_date": [
+        "2000"
+    ], 
+    "creator_contributor_role": [
+        "Pip Starr, producer", 
+        "Campbell Manderson, director", 
+        "SKA TV, production company", 
+        "Pip Starr, camera operator", 
+        "Pip Starr, editor"
+    ], 
+    "colour": [
+        "Colour"
+    ], 
+    "sound_audio": [
+        "Sound"
+    ], 
+    "language_keywords": [
+        "English"
+    ], 
+    "other_languages": [
+        ""
+    ], 
+    "other_language_type": [
+        ""
+    ], 
+    "other_language_notes": [
+        ""
+    ], 
+    "length": [
+        "00:17:31"
+    ], 
+    "audience_classification": [
+        "ACMI classified"
+    ], 
+    "viewing_guidelines": [
+        "Educational use only", 
+        "Coarse language"
+    ], 
+    "form": [
+        "Television", 
+        "Television/Television programs", 
+        "Television/Television programs/Television programs - Australia"
+    ], 
+    "genre": [
+        "Documentary"
+    ], 
+    "subject_group": [
+        "Economics, Philosophy, Politics, Religion & Sociology/Protest movements", 
+        "History/Protest movements", 
+        "Armed Forces, Military, War & Weapons/Demonstrations", 
+        "Economics, Philosophy, Politics, Religion & Sociology/Demonstrations", 
+        "History/Demonstrations", 
+        "Communications, Infrastructure, & Transport/Urban transportation", 
+        "History/Sydney (N.S.W.) - History", 
+        "Places/Sydney (N.S.W.)"
+    ], 
+    "abstract": [
+        "Story on police reponse to environmental protesters in Sydney"
+    ], 
+    "description": [
+        "A report on the concerns over the private toll road which was built at the expense of over 2 hectares of public parkland in inner Sydney. Hundreds of Sydney residents take over the streets to protest car-dominated public space and offer a vision of urban sustainability. Their celebration is met with a brutal police response. Produced as a news story for SKA TV's Access News, a grass-roots alternative to mainstream news and current affairs, broadcast weekly on Melbourne's Community Television station Channel 31 since 1994."
+    ], 
+    "member_object": [
+        ""
+    ], 
+    "part_of_compliation_title_or_vod_package": [
+        "Compilation title; B1005127; Access News greatest hits 2000. Part 1; Active; 2000"
+    ], 
+    "related_objects": [
+        "Compilation title; B1005127; Access News greatest hits 2000. Part 1; Active; 2000", 
+        "Title; B1006988; Corporate Globalisation; Active; 2000", 
+        "Title; B1006987; Fire, Water, Earth; Active; 2000", 
+        "Title; B1006990; Thugs of the Forest; Active; 2000", 
+        "Title; B1006991; [Untitled segment on NAIDOC day: Access News 2000]; Active; 2000", 
+        "Title; B1006989; Watch the Gap; Active; 2000", 
+        "Title; B1006986; World Class De-Forestation; Active; 2000"
+    ], 
+    "object_relationship": [
+        "higher term", 
+        "Related Title", 
+        "Related Title", 
+        "Related Title", 
+        "Related Title", 
+        "Related Title", 
+        "Related Title"
+    ], 
+    "related_object_notes": [
+        "part of compile"
+    ], 
+    "active_carriers_public_types_and_formats_only": [
+        "DVCAM; Master", 
+        "Digital Betacam [PAL]; Sub-master", 
+        "VHS [PAL]; Reference - timecoded", 
+        "MOV file H264; ACMI Digital Access Copy - presentation", 
+        "MOV file ProRes4444; Digital Preservation Master - presentation"
+    ]
+}

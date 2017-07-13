@@ -5,10 +5,14 @@
     "acmi_identifier": "312238", 
     "title": "Snowtime at Mt Buffalo", 
     "other_title": [
-        ""
+        "Snowtime at Mount Buffalo", 
+        "Snow Time at Mount Buffalo", 
+        "Snow Time at Mt Buffalo"
     ], 
     "other_title_type": [
-        ""
+        "Parallel search title", 
+        "Parallel search title", 
+        "Parallel search title"
     ], 
     "place_of_production": [
         "Australia"
@@ -66,7 +70,7 @@
         "Hobbies, Recreation & Sport/Winter sports"
     ], 
     "abstract": [
-        ""
+        "Silent footage of scenes at Mt Buffalo, Victoria, of views, skiing instruction and general activities."
     ], 
     "description": [
         "Shows scenes at Mt Buffalo, Victoria, of views, skiing instruction and general activities."
@@ -87,6 +91,8 @@
         ""
     ], 
     "active_carriers_public_types_and_formats_only": [
-        "16mm film; Access Print (Section 1)"
+        "16mm film; Access Print (Section 1)", 
+        "MOV file H264; ACMI Digital Access Copy - presentation", 
+        "MOV file ProRes4444; Digital Preservation Master - presentation"
     ]
 }

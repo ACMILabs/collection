@@ -1,0 +1,88 @@
+{
+    "system_id": 1459, 
+    "permalink": "http://collections.acmi.net.au/objects/1459", 
+    "record_type": "Compilation title", 
+    "acmi_identifier": "B1003603", 
+    "title": "Casual menace", 
+    "other_title": [
+        "Human.Machine.Landscape -- 7 Lonely drivers", 
+        "Human.Machine.Landscape"
+    ], 
+    "other_title_type": [
+        "Alternative Title", 
+        "Alternative Title"
+    ], 
+    "place_of_production": [
+        "Australia"
+    ], 
+    "creation_date": [
+        "01 Mar 2002-01 Sep 2002"
+    ], 
+    "creator_contributor_role": [
+        "Simon Terrill, creator", 
+        "Simon Price, creator"
+    ], 
+    "colour": [
+        ""
+    ], 
+    "sound_audio": [
+        ""
+    ], 
+    "language_keywords": [
+        "English"
+    ], 
+    "other_languages": [
+        ""
+    ], 
+    "other_language_type": [
+        ""
+    ], 
+    "other_language_notes": [
+        ""
+    ], 
+    "length": [
+        ""
+    ], 
+    "audience_classification": [
+        "G"
+    ], 
+    "viewing_guidelines": [
+        ""
+    ], 
+    "form": [
+        ""
+    ], 
+    "genre": [
+        ""
+    ], 
+    "subject_group": [
+        ""
+    ], 
+    "abstract": [
+        "Landscape images of the often lonely and isolated remote Australian highways"
+    ], 
+    "description": [
+        "Sleeping rough in bus shelters and roadside ditches from Darwin to Dubbo, the artists collect a large image-gallery of characters, landscapes, abstractions and moods. Using video and Super 8, they explore the alienating environments of the road and the lonesome souls who travel through these spaces and times. A dark meditation on the nomadic spaces of rural Australia, Casual Menace is composed of two interrelated video loops The Chance Map and Moths. Using the footage gathered from their numerous hitchhiking 'experiments', the artists explore the fragile, lonely spaces of remote highways."
+    ], 
+    "member_object": [
+        "Title; B1005376; The Chance map; Active", 
+        "Title; B1005377; Moths; Active"
+    ], 
+    "part_of_compliation_title_or_vod_package": [
+        "Compilation title; B2000234; Human / Machine / Landscape; Active"
+    ], 
+    "related_objects": [
+        ""
+    ], 
+    "object_relationship": [
+        ""
+    ], 
+    "related_object_notes": [
+        ""
+    ], 
+    "active_carriers_public_types_and_formats_only": [
+        "DVCAM; Master", 
+        "VHS; Reference - timecoded", 
+        "Digital Betacam [PAL]; Sub-master"
+    ]
+}

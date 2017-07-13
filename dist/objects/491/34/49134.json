@@ -3,7 +3,7 @@
     "permalink": "http://collections.acmi.net.au/objects/49134", 
     "record_type": "Title", 
     "acmi_identifier": "314900", 
-    "title": "Wildflower wonderland", 
+    "title": "Wildflower Wonderland", 
     "other_title": [
         ""
     ], 
@@ -90,6 +90,8 @@
         ""
     ], 
     "active_carriers_public_types_and_formats_only": [
-        "16mm film; Access Print (Section 1)"
+        "16mm film; Access Print (Section 1)", 
+        "MOV file H264; ACMI Digital Access Copy - presentation", 
+        "MOV file ProRes4444; Digital Preservation Master - presentation"
     ]
 }

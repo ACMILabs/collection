@@ -110,6 +110,9 @@
         ""
     ], 
     "active_carriers_public_types_and_formats_only": [
-        "Mediatheque VoD Digital Access Copy"
+        "Mediatheque VoD Digital Access Copy", 
+        "Mini DV; Master", 
+        "VHS [PAL]; Reference - timecoded", 
+        "Mini DV; Sub-master"
     ]
 }

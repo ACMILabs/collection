@@ -84,6 +84,10 @@
     ], 
     "active_carriers_public_types_and_formats_only": [
         "VHS [PAL]; Copy", 
-        "Mediatheque VoD Digital Access Copy"
+        "SP Betacam; Master", 
+        "Mediatheque VoD Digital Access Copy", 
+        "Digital Betacam [PAL]; Sub-master", 
+        "VHS [PAL]; Reference - timecoded", 
+        "VHS [NTSC]; Preview Copy"
     ]
 }

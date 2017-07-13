@@ -3,7 +3,7 @@
     "permalink": "http://collections.acmi.net.au/objects/56989", 
     "record_type": "Title", 
     "acmi_identifier": "508622", 
-    "title": "Choice for year nine", 
+    "title": "Choice for Year Nine", 
     "other_title": [
         ""
     ], 
@@ -84,6 +84,9 @@
     ], 
     "active_carriers_public_types_and_formats_only": [
         "VHS; Access Print (Section 1)", 
-        "VHS; Access Print (Section 1)"
+        "VHS; Access Print (Section 1)", 
+        "MOV file ProRes4444; Digital Preservation Master - presentation", 
+        "MOV file ProRes4444; Digital Preservation Master - overscan", 
+        "MOV file H264; ACMI Digital Access Copy - presentation"
     ]
 }

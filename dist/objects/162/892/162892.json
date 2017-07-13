@@ -6,11 +6,15 @@
     "title": "Fred's Films. Our Family [excerpt]", 
     "other_title": [
         "Our Family", 
-        "Freds Films. Our Family [excerpt]"
+        "Freds Films. Our Family [excerpt]", 
+        "Fred's Films: Our Family", 
+        "Fred's Films: Our Family"
     ], 
     "other_title_type": [
         "Original", 
-        "Parallel search title"
+        "Parallel search title", 
+        "Website title", 
+        "Website title"
     ], 
     "place_of_production": [
         "Australia"
@@ -54,11 +58,11 @@
         "Silent films"
     ], 
     "genre": [
+        "Amateur & Student Films/Amateur films", 
         "Amateur & Student Films", 
         "Travelogue"
     ], 
     "subject_group": [
-        "Advertising, Film, Journalism, Mass Media & TV/Home movies and video", 
         "Anthropology, Ethnology, Exploration & Travel/Victoria - Description and travel", 
         "Anthropology, Ethnology, Exploration & Travel/Melbourne (Vic.) - Social life and customs"
     ], 

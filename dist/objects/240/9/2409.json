@@ -1,0 +1,99 @@
+{
+    "system_id": 2409, 
+    "permalink": "http://collections.acmi.net.au/objects/2409", 
+    "record_type": "Compilation title", 
+    "acmi_identifier": "B1005593", 
+    "title": "MAP: ACMI visits Bendigo and Oxley", 
+    "other_title": [
+        ""
+    ], 
+    "other_title_type": [
+        ""
+    ], 
+    "place_of_production": [
+        "VIC/Australia"
+    ], 
+    "creation_date": [
+        "2003"
+    ], 
+    "creator_contributor_role": [
+        "ACMI, producer"
+    ], 
+    "colour": [
+        "Colour"
+    ], 
+    "sound_audio": [
+        "Sound"
+    ], 
+    "language_keywords": [
+        "English"
+    ], 
+    "other_languages": [
+        ""
+    ], 
+    "other_language_type": [
+        ""
+    ], 
+    "other_language_notes": [
+        ""
+    ], 
+    "length": [
+        "00:42:00"
+    ], 
+    "audience_classification": [
+        "ACMI classified"
+    ], 
+    "viewing_guidelines": [
+        "Educational use only"
+    ], 
+    "form": [
+        ""
+    ], 
+    "genre": [
+        "Biographical"
+    ], 
+    "subject_group": [
+        "Anthropology, Ethnology, Exploration & Travel/Victoria - Description and travel", 
+        "Anthropology, Ethnology, Exploration & Travel/Victoria - Social life and customs", 
+        "Anthropology, Ethnology, Exploration & Travel/Victoria - Rural conditions", 
+        "Food, Health, Lifestyle, Medicine, Psychology & Safety/Memory", 
+        "Economics, Philosophy, Politics, Religion & Sociology/Multiculturalism", 
+        "Anthropology, Ethnology, Exploration & Travel/Cities and towns"
+    ], 
+    "abstract": [
+        ""
+    ], 
+    "description": [
+        ""
+    ], 
+    "member_object": [
+        "Title; B1005597; Anne, Joan and Bendigo; Active; 2003", 
+        "Title; B1005598; Coming of age in Oxley; Active; 2003", 
+        "Title; B1005594; Dennis O'Hoy: Bendigo Born and Bred; Active; 2003", 
+        "Title; B1005596; Friends of the Bendigo Botanical Gardens; Active; 2003", 
+        "Title; B1005595; The Golden dragons; Active; 2003", 
+        "Title; B1005857; Growing up in Bendigo; Active; 2003", 
+        "Title; B1005600; The Guan Yin Temple; Active; 2003", 
+        "Title; B1005599; Oxley Shire Hall; Active; 2003"
+    ], 
+    "part_of_compliation_title_or_vod_package": [
+        ""
+    ], 
+    "related_objects": [
+        "Collection; B1003241; Memory Grid MAP Project Collection; Active; 2002"
+    ], 
+    "object_relationship": [
+        "higher term"
+    ], 
+    "related_object_notes": [
+        ""
+    ], 
+    "active_carriers_public_types_and_formats_only": [
+        "DVCAM; Master", 
+        "DVCAM; Master", 
+        "Digital Betacam; Sub-master", 
+        "Digital Betacam; Sub-master", 
+        "VHS [PAL]; Reference - timecoded", 
+        "VHS [PAL]; Reference - timecoded"
+    ]
+}

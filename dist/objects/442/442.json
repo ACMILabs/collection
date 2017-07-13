@@ -87,6 +87,9 @@
         "DVD [PAL]; Copy", 
         "DVD [PAL]; Copy", 
         "DVD ROM; Copy", 
-        "Mediatheque VoD Digital Access Copy"
+        "Digital Betacam [PAL]; Master", 
+        "VHS [PAL]; Reference - timecoded", 
+        "Mediatheque VoD Digital Access Copy", 
+        "Digital Betacam [PAL]; Sub-master"
     ]
 }

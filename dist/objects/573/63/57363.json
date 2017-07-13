@@ -3,7 +3,7 @@
     "permalink": "http://collections.acmi.net.au/objects/57363", 
     "record_type": "Title", 
     "acmi_identifier": "509155", 
-    "title": "Adventure games in the classroom", 
+    "title": "Adventure Games in the Classroom", 
     "other_title": [
         ""
     ], 
@@ -62,7 +62,7 @@
         "Hobbies, Recreation & Sport/Computer games"
     ], 
     "abstract": [
-        ""
+        "Outlines how to integrate the computer into the classroom by using an adventure games approach."
     ], 
     "description": [
         "Outlines how to integrate the computer into the classroom by using an adventure games approach. The emphasis is on situations where only one computer per class is available."
@@ -83,9 +83,12 @@
         ""
     ], 
     "active_carriers_public_types_and_formats_only": [
+        "DVD; Back-up", 
         "VHS; Access Print (Section 1)", 
         "VHS; Access Print (Section 1)", 
         "VHS; Access Print (Section 1)", 
-        "VHS; Access Print (Section 1)"
+        "VHS; Access Print (Section 1)", 
+        "MOV file H264; ACMI Digital Access Copy - presentation", 
+        "MOV file ProRes4444; Digital Preservation Master - presentation"
     ]
 }

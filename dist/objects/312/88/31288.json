@@ -73,17 +73,26 @@
         ""
     ], 
     "related_objects": [
-        "Series; S00914; The Work that was; Active"
+        "Title; 012960; The Lost generation; Active; 1979", 
+        "Title; 012961; Who pays the price?; Active; 1979", 
+        "Series; S00914; The Work That Was; Active", 
+        "Title; 015221; The Work That Was. Parts 1 & 2; Active; 1979"
     ], 
     "object_relationship": [
-        "Series Title"
+        "Related Title", 
+        "Related Title", 
+        "Series Title", 
+        "Related Title"
     ], 
     "related_object_notes": [
-        ""
+        "", 
+        "", 
+        "", 
+        "Separately held Title containing \"Futures\" and \"Who Pays the Price?\""
     ], 
     "active_carriers_public_types_and_formats_only": [
         "U-Matic; Access Print (Section 1)", 
         "16mm film; Access Print (Section 1)", 
-        "MOV file H264; Digital Access Copy"
+        "MOV file H264; ACMI Digital Access Copy - presentation"
     ]
 }

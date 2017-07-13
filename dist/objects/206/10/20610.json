@@ -3,12 +3,12 @@
     "permalink": "http://collections.acmi.net.au/objects/20610", 
     "record_type": "Title", 
     "acmi_identifier": "000677", 
-    "title": "At the lands end: the Wilson's Promontary National Park", 
+    "title": "At the Lands End: the Wilson's Promontory National Park", 
     "other_title": [
-        ""
+        "At the Lands End: the Wilsons Promontory National Park"
     ], 
     "other_title_type": [
-        ""
+        "Parallel search title"
     ], 
     "place_of_production": [
         "Australia"
@@ -21,7 +21,8 @@
         "State Film Centre of Victoria, production company", 
         "Parks Victoria, production company", 
         "Wilson's Promontory Committee of Management, production company", 
-        "David Swift, director"
+        "David Swift, director", 
+        "H. Rodney Power, director of photography"
     ], 
     "colour": [
         "Colour"
@@ -91,6 +92,7 @@
     "active_carriers_public_types_and_formats_only": [
         "16mm film; Preservation Print (Section 5)", 
         "16mm film; Access Print (Section 1)", 
-        "16mm film; Limited Access Print (Section 2)"
+        "16mm film; Limited Access Print (Section 2)", 
+        "MOV file H264; ACMI Digital Access Copy - presentation"
     ]
 }

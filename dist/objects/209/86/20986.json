@@ -91,6 +91,7 @@
     "active_carriers_public_types_and_formats_only": [
         "16mm film; Limited Access Print (Section 2)", 
         "16mm film; Access Print (Section 1)", 
-        "DVD [PAL]; Access Print (Section 1)"
+        "DVD [PAL]; Access Print (Section 1)", 
+        "DVCAM; Sub-master"
     ]
 }

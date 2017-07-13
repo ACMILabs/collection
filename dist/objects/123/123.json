@@ -1,0 +1,89 @@
+{
+    "system_id": 123, 
+    "permalink": "http://collections.acmi.net.au/objects/123", 
+    "record_type": "Title", 
+    "acmi_identifier": "B1000132", 
+    "title": "April 2nd, 1993", 
+    "other_title": [
+        ""
+    ], 
+    "other_title_type": [
+        ""
+    ], 
+    "place_of_production": [
+        "United States"
+    ], 
+    "creation_date": [
+        "1994"
+    ], 
+    "creator_contributor_role": [
+        "Shelly Silver, creator", 
+        "Jo Privat, music"
+    ], 
+    "colour": [
+        ""
+    ], 
+    "sound_audio": [
+        ""
+    ], 
+    "language_keywords": [
+        "English"
+    ], 
+    "other_languages": [
+        ""
+    ], 
+    "other_language_type": [
+        ""
+    ], 
+    "other_language_notes": [
+        ""
+    ], 
+    "length": [
+        ""
+    ], 
+    "audience_classification": [
+        "unclassified"
+    ], 
+    "viewing_guidelines": [
+        ""
+    ], 
+    "form": [
+        "Short films", 
+        "Digital Art", 
+        "Short films/Short films - United States"
+    ], 
+    "genre": [
+        ""
+    ], 
+    "subject_group": [
+        ""
+    ], 
+    "abstract": [
+        "power, and privacy as woman watches men"
+    ], 
+    "description": [
+        "Silver casts her female gaze onto a series of anonymous male subjects that she follows through the streets of the Marais district in Paris. The resulting `surveillance narrative,' which features the music of Jo Privat, is an observation of viewing, power, and privacy in a public space."
+    ], 
+    "member_object": [
+        ""
+    ], 
+    "part_of_compliation_title_or_vod_package": [
+        ""
+    ], 
+    "related_objects": [
+        "Collection; B1005390; Exhibition Collection; Active; 01 Dec 1998", 
+        "Collection; B1000363; Screen Gallery; Active"
+    ], 
+    "object_relationship": [
+        "higher term", 
+        "higher term"
+    ], 
+    "related_object_notes": [
+        ""
+    ], 
+    "active_carriers_public_types_and_formats_only": [
+        "Digital Betacam [PAL]; Master", 
+        "Digital Betacam [PAL]; Sub-master", 
+        "VHS [PAL]; Reference - timecoded"
+    ]
+}

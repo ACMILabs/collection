@@ -1,0 +1,104 @@
+{
+    "system_id": 13992, 
+    "permalink": "http://collections.acmi.net.au/objects/13992", 
+    "record_type": "Compilation title", 
+    "acmi_identifier": "B1007019", 
+    "title": "Top Screen 2006", 
+    "other_title": [
+        ""
+    ], 
+    "other_title_type": [
+        ""
+    ], 
+    "place_of_production": [
+        "VIC/Australia"
+    ], 
+    "creation_date": [
+        "2006"
+    ], 
+    "creator_contributor_role": [
+        "ACMI, compiler", 
+        "Victorian Curriculum and Assessment Authority (VCAA), Project Coordinator"
+    ], 
+    "colour": [
+        ""
+    ], 
+    "sound_audio": [
+        "Sound"
+    ], 
+    "language_keywords": [
+        ""
+    ], 
+    "other_languages": [
+        ""
+    ], 
+    "other_language_type": [
+        ""
+    ], 
+    "other_language_notes": [
+        ""
+    ], 
+    "length": [
+        "01:22:00"
+    ], 
+    "audience_classification": [
+        "ACMI classified"
+    ], 
+    "viewing_guidelines": [
+        "Educational use only"
+    ], 
+    "form": [
+        "Short films", 
+        "Short films", 
+        "Short films/Short films - Australia"
+    ], 
+    "genre": [
+        "Animation", 
+        "Amateur & Student Films", 
+        "Amateur & Student Films/Student films - Australia", 
+        "Documentary", 
+        "Experimental"
+    ], 
+    "subject_group": [
+        ""
+    ], 
+    "abstract": [
+        "Selection of short films from the VCE Season of Excellence 2006"
+    ], 
+    "description": [
+        "Compile of 14 short films selected as the VCE Top Screen Season of Excellence 2006. Two of the short films included in the compile are not licensed and therefore not available for screening: \"Blue sky, green grass, white clouds\" and \"Bad business\"."
+    ], 
+    "member_object": [
+        "Title; B1007021; The Block; Active; 2005", 
+        "Title; B1007023; Boy; Active; 2005", 
+        "Title; B1007020; The Calling; Active; 2005", 
+        "Title; B1007028; Entropy; Active; 2005", 
+        "Title; B1007024; Etch a sketch; Active; 2005", 
+        "Title; B1007030; Girl on a bicycle; Active; 2005", 
+        "Title; B1007029; Image; Active; 2005", 
+        "Title; B1007026; Life; Active; 2005", 
+        "Title; B1007031; Penny and PJ: Field Trip; Active; 2005", 
+        "Title; B1007027; Soliloquy; Active; 2005", 
+        "Title; B1007022; [Untitled]; Active; 2005", 
+        "Title; B1007025; Wake; Active; 2005"
+    ], 
+    "part_of_compliation_title_or_vod_package": [
+        ""
+    ], 
+    "related_objects": [
+        "Collection; B1006079; Memory Grid Secondary Student Work; Active", 
+        "Collection; B1005258; Memory Grid Student Work Collection; Active"
+    ], 
+    "object_relationship": [
+        "higher term", 
+        "higher term"
+    ], 
+    "related_object_notes": [
+        ""
+    ], 
+    "active_carriers_public_types_and_formats_only": [
+        "DVCAM; Master", 
+        "DVCAM; Sub-master", 
+        "VHS [PAL]; Reference - timecoded"
+    ]
+}

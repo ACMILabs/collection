@@ -54,7 +54,8 @@
     ], 
     "genre": [
         "Documentary", 
-        "Documentary/Documentary films - Australia"
+        "Documentary/Documentary films - Australia", 
+        "Amateur & Student Films/Amateur films"
     ], 
     "subject_group": [
         "Anthropology, Ethnology, Exploration & Travel/Boort (Vic.)", 
@@ -62,7 +63,6 @@
         "Anthropology, Ethnology, Exploration & Travel/Victoria - Rural conditions", 
         "Agriculture, Business, Commerce & Industry/Victoria - Rural conditions", 
         "History/Victoria - History", 
-        "Agriculture, Business, Commerce & Industry/Victoria - Rural conditions", 
         "Places/Boort (Vic.)", 
         "Economics, Philosophy, Politics, Religion & Sociology/Country life - Australia"
     ], 
@@ -89,6 +89,7 @@
     ], 
     "active_carriers_public_types_and_formats_only": [
         "16mm film; Limited Access Print (Section 2)", 
+        "DVCAM; Master", 
         "DVD [PAL]; Copy", 
         "DVD [PAL]; Copy", 
         "Mediatheque VoD Digital Access Copy"

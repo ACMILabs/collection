@@ -3,7 +3,7 @@
     "permalink": "http://collections.acmi.net.au/objects/23685", 
     "record_type": "Title", 
     "acmi_identifier": "004322", 
-    "title": "Gippsland honeymoon", 
+    "title": "Gippsland Honeymoon", 
     "other_title": [
         ""
     ], 
@@ -94,6 +94,7 @@
     "active_carriers_public_types_and_formats_only": [
         "16mm film; Preservation Print (Section 5)", 
         "16mm film; Limited Access Print (Section 2)", 
-        "16mm film; Access Print (Section 1)"
+        "16mm film; Access Print (Section 1)", 
+        "MOV file H264; ACMI Digital Access Copy - presentation"
     ]
 }

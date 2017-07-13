@@ -3,7 +3,7 @@
     "permalink": "http://collections.acmi.net.au/objects/23362", 
     "record_type": "Title", 
     "acmi_identifier": "003960", 
-    "title": "Forgotten people (A)", 
+    "title": "Forgotten people", 
     "other_title": [
         ""
     ], 
@@ -77,7 +77,7 @@
         "People/Nicholls, Doug 1906-1988"
     ], 
     "abstract": [
-        ""
+        "Shows the work of the Aborigines Advancement League particularly of Pastor Doug Nicholls and Bill Onus."
     ], 
     "description": [
         "Shows the work of the Aborigines Advancement League particularly of Pastor Doug Nicholls and Bill Onus. They visit the settlements of Rumbaland, Robinvale and Dareton, showing the primitive conditions in which the aborigines are forced to live. Government housing is not provided at a sufficient rate. This film stresses the need for more positive action. Sponsored by the Aborigines Advancement League (Victoria) in the wake of the 1967 Referendum, and featuring two of the League's founding members in Nicholls and Onus."
@@ -86,7 +86,7 @@
         ""
     ], 
     "part_of_compliation_title_or_vod_package": [
-        ""
+        "VoD Program; B2003363; Reconciliation, Referendum and Mabo; Active"
     ], 
     "related_objects": [
         ""
@@ -99,6 +99,8 @@
     ], 
     "active_carriers_public_types_and_formats_only": [
         "16mm film; Access Print (Section 1)", 
-        "MOV file H264; Digital Access Copy"
+        "MOV file H264; ACMI Digital Access Copy - presentation", 
+        "MOV file ProRes4444; Digital Preservation Master - presentation", 
+        "Mediatheque VoD Digital Access Copy"
     ]
 }

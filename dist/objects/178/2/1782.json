@@ -1,0 +1,94 @@
+{
+    "system_id": 1782, 
+    "permalink": "http://collections.acmi.net.au/objects/1782", 
+    "record_type": "Compilation title", 
+    "acmi_identifier": "B1004033", 
+    "title": "RMIT AIM Collection 1999", 
+    "other_title": [
+        "AIM Collection 1999"
+    ], 
+    "other_title_type": [
+        "Alternative Title"
+    ], 
+    "place_of_production": [
+        "VIC/Australia"
+    ], 
+    "creation_date": [
+        "1999"
+    ], 
+    "creator_contributor_role": [
+        "Animation and Interactive Media (AIM) RMIT, production facilities"
+    ], 
+    "colour": [
+        ""
+    ], 
+    "sound_audio": [
+        ""
+    ], 
+    "language_keywords": [
+        ""
+    ], 
+    "other_languages": [
+        ""
+    ], 
+    "other_language_type": [
+        ""
+    ], 
+    "other_language_notes": [
+        ""
+    ], 
+    "length": [
+        ""
+    ], 
+    "audience_classification": [
+        "ACMI classified"
+    ], 
+    "viewing_guidelines": [
+        "Educational use only"
+    ], 
+    "form": [
+        ""
+    ], 
+    "genre": [
+        "Animation", 
+        "Amateur & Student Films", 
+        "Amateur & Student Films/Student films - Australia", 
+        "Amateur & Student Films/Student films - Australia"
+    ], 
+    "subject_group": [
+        ""
+    ], 
+    "abstract": [
+        "1999 student animations from RMIT (AIM)"
+    ], 
+    "description": [
+        "Compilation of student work from the University of RMIT Animation and Interactive Media (AIM) Department. 1999."
+    ], 
+    "member_object": [
+        "Title; B1002864; Brassketeers; Active; 1999", 
+        "Title; B2000057; David & Rocky; Active; 1999", 
+        "Title; B2000058; Final notice; Active; 1999", 
+        "Title; B1002846; Les Grenouilles; Active; 1999", 
+        "Title; B1002871; Whyspers; Active; 1999"
+    ], 
+    "part_of_compliation_title_or_vod_package": [
+        ""
+    ], 
+    "related_objects": [
+        "Collection; B1005258; Memory Grid Student Work Collection; Active", 
+        "Collection; B1006080; Memory Grid Tertiary Student Work Collection; Active"
+    ], 
+    "object_relationship": [
+        "higher term", 
+        "higher term"
+    ], 
+    "related_object_notes": [
+        ""
+    ], 
+    "active_carriers_public_types_and_formats_only": [
+        "SP Betacam; Master", 
+        "VHS [PAL]; Reference - timecoded", 
+        "Digital Betacam [PAL]; Sub-master", 
+        "Digital Betacam [PAL]; Sub-master"
+    ]
+}

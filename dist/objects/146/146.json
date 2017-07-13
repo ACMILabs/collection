@@ -1,0 +1,106 @@
+{
+    "system_id": 146, 
+    "permalink": "http://collections.acmi.net.au/objects/146", 
+    "record_type": "Compilation title", 
+    "acmi_identifier": "B1000155", 
+    "title": "RMIT AIM Collection 1996", 
+    "other_title": [
+        ""
+    ], 
+    "other_title_type": [
+        ""
+    ], 
+    "place_of_production": [
+        "VIC/Australia"
+    ], 
+    "creation_date": [
+        "1996"
+    ], 
+    "creator_contributor_role": [
+        "Animation and Interactive Media (AIM) RMIT, production facilities"
+    ], 
+    "colour": [
+        ""
+    ], 
+    "sound_audio": [
+        ""
+    ], 
+    "language_keywords": [
+        "English"
+    ], 
+    "other_languages": [
+        ""
+    ], 
+    "other_language_type": [
+        ""
+    ], 
+    "other_language_notes": [
+        ""
+    ], 
+    "length": [
+        ""
+    ], 
+    "audience_classification": [
+        "ACMI classified"
+    ], 
+    "viewing_guidelines": [
+        "Educational use only"
+    ], 
+    "form": [
+        ""
+    ], 
+    "genre": [
+        "Animation", 
+        "Animation/Animated films - Australia", 
+        "Amateur & Student Films", 
+        "Amateur & Student Films/Student films - Australia"
+    ], 
+    "subject_group": [
+        ""
+    ], 
+    "abstract": [
+        "1996 student animations from RMIT (AIM)"
+    ], 
+    "description": [
+        "Compilation of student work from the University of RMIT Animation and Interactive Media (AIM) Department. 1996."
+    ], 
+    "member_object": [
+        "Title; B2000054; Ache; Active; 1996", 
+        "Title; B2000041; Adventures of cyberkid; Active; 1996", 
+        "Title; B2000045; Auto mania; Active; 1996", 
+        "Title; B2000047; Can you hear the dog Fernando?; Active; 1996", 
+        "Title; B2000039; [Claymation - Untitled group project]; Active; 1996", 
+        "Title; B2000049; The Couch; Active; 1996", 
+        "Title; B2000053; If it wasn't for the rubber; Active; 1996", 
+        "Title; B2000046; [Lip sync]; Active; 1996", 
+        "Title; B2000050; Miss Showy; Active; 1996", 
+        "Title; B2000043; Noelene Giblet's big snatch; Active; 1996", 
+        "Title; B2000052; November 3 1957; Active; 1996", 
+        "Title; B2000048; Owed to Jack Kerouac and my friends; Active; 1996", 
+        "Title; B2000051; Pig too far gone; Active; 1996", 
+        "Title; B2000037; [Pixillation - Untitled group project]; Active; 1996", 
+        "Title; B2000042; She swallowed the spider to catch the fly; Active; 1996", 
+        "Title; B2000055; Still life with aeroplane; Active; 1996", 
+        "Title; B2000040; Tightrope; Active; 1996", 
+        "Title; B2000044; The True tale of Maude and Flossy; Active; 1996"
+    ], 
+    "part_of_compliation_title_or_vod_package": [
+        ""
+    ], 
+    "related_objects": [
+        "Collection; B1005258; Memory Grid Student Work Collection; Active", 
+        "Collection; B1006080; Memory Grid Tertiary Student Work Collection; Active"
+    ], 
+    "object_relationship": [
+        "higher term", 
+        "higher term"
+    ], 
+    "related_object_notes": [
+        ""
+    ], 
+    "active_carriers_public_types_and_formats_only": [
+        "Digital Betacam [PAL]; Master", 
+        "VHS [PAL]; Reference - timecoded", 
+        "Digital Betacam; Sub-master"
+    ]
+}

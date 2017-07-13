@@ -3,7 +3,7 @@
     "permalink": "http://collections.acmi.net.au/objects/57342", 
     "record_type": "Title", 
     "acmi_identifier": "509122", 
-    "title": "Changing times - changing schools: establishing Victorian Secondary Colleges", 
+    "title": "Changing Times - Changing Schools: Establishing Victorian Secondary Colleges", 
     "other_title": [
         ""
     ], 
@@ -89,6 +89,8 @@
     ], 
     "active_carriers_public_types_and_formats_only": [
         "VHS; Access Print (Section 1)", 
-        "VHS; Access Print (Section 1)"
+        "VHS; Access Print (Section 1)", 
+        "MOV file ProRes4444; Digital Preservation Master - presentation", 
+        "MOV file H264; ACMI Digital Access Copy - presentation"
     ]
 }

@@ -1,0 +1,105 @@
+{
+    "system_id": 11010, 
+    "permalink": "http://collections.acmi.net.au/objects/11010", 
+    "record_type": "Compilation title", 
+    "acmi_identifier": "B1006547", 
+    "title": "RMIT Media Arts Collection 2003", 
+    "other_title": [
+        ""
+    ], 
+    "other_title_type": [
+        ""
+    ], 
+    "place_of_production": [
+        "Australia"
+    ], 
+    "creation_date": [
+        "2003"
+    ], 
+    "creator_contributor_role": [
+        "RMIT Media Arts, producer"
+    ], 
+    "colour": [
+        ""
+    ], 
+    "sound_audio": [
+        "Sound"
+    ], 
+    "language_keywords": [
+        ""
+    ], 
+    "other_languages": [
+        ""
+    ], 
+    "other_language_type": [
+        ""
+    ], 
+    "other_language_notes": [
+        ""
+    ], 
+    "length": [
+        "00:58:39"
+    ], 
+    "audience_classification": [
+        "Exempt"
+    ], 
+    "viewing_guidelines": [
+        "Educational use only"
+    ], 
+    "form": [
+        ""
+    ], 
+    "genre": [
+        "Animation", 
+        "Amateur & Student Films", 
+        "Amateur & Student Films/Student films - Australia", 
+        "Amateur & Student Films/Student films - Australia"
+    ], 
+    "subject_group": [
+        ""
+    ], 
+    "abstract": [
+        ""
+    ], 
+    "description": [
+        ""
+    ], 
+    "member_object": [
+        "Title; B2000125; Agneau; Active; 2003", 
+        "Title; B2000131; Autowash; Active; 2003", 
+        "Title; B2000129; Buffet of desire; Active; 2003", 
+        "Title; B2000099; Chicakita: a cabaret spectacular; Active; 2003", 
+        "Title; B2000126; Interiors; Active; 2003", 
+        "Title; B2000127; Morph-Id; Active; 2003", 
+        "Title; B2000124; Shell; Active; 2003", 
+        "Title; B2000130; Silvia - boys; Active; 2003", 
+        "Title; B2000100; The Traitor friend; Active; 2003", 
+        "Title; B2000098; Tuesday; Active; 2003", 
+        "Title; B2000128; White poison; Active; 2003", 
+        "Title; B2000132; Akita; Active; 2003"
+    ], 
+    "part_of_compliation_title_or_vod_package": [
+        ""
+    ], 
+    "related_objects": [
+        "Collection; B1005258; Memory Grid Student Work Collection; Active", 
+        "Collection; B1006080; Memory Grid Tertiary Student Work Collection; Active", 
+        "Collection; B1006545; RMIT Media Arts; Active"
+    ], 
+    "object_relationship": [
+        "higher term", 
+        "higher term", 
+        "higher term"
+    ], 
+    "related_object_notes": [
+        ""
+    ], 
+    "active_carriers_public_types_and_formats_only": [
+        "Mini DV; Master", 
+        "Mini DV; Master", 
+        "Mini DV; Sub-master", 
+        "Mini DV; Sub-master", 
+        "VHS [PAL]; Reference - timecoded", 
+        "VHS [PAL]; Reference - timecoded"
+    ]
+}

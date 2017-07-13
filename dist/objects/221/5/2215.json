@@ -1,0 +1,89 @@
+{
+    "system_id": 2215, 
+    "permalink": "http://collections.acmi.net.au/objects/2215", 
+    "record_type": "Compilation title", 
+    "acmi_identifier": "B1005381", 
+    "title": "Memory Grid Student Collection general submissions 2002", 
+    "other_title": [
+        ""
+    ], 
+    "other_title_type": [
+        ""
+    ], 
+    "place_of_production": [
+        ""
+    ], 
+    "creation_date": [
+        ""
+    ], 
+    "creator_contributor_role": [
+        ""
+    ], 
+    "colour": [
+        ""
+    ], 
+    "sound_audio": [
+        ""
+    ], 
+    "language_keywords": [
+        ""
+    ], 
+    "other_languages": [
+        ""
+    ], 
+    "other_language_type": [
+        ""
+    ], 
+    "other_language_notes": [
+        ""
+    ], 
+    "length": [
+        ""
+    ], 
+    "audience_classification": [
+        ""
+    ], 
+    "viewing_guidelines": [
+        ""
+    ], 
+    "form": [
+        ""
+    ], 
+    "genre": [
+        ""
+    ], 
+    "subject_group": [
+        ""
+    ], 
+    "abstract": [
+        "Compile of all student works submitted to the Memeory Grid student collection in 2002 that is not part of the RMIT, Swinburne or Diegesis collections."
+    ], 
+    "description": [
+        "Compile of all student works submitted to the Memeory Grid student collection in 2002 that is not part of the RMIT, Swinburne or Diegesis collections."
+    ], 
+    "member_object": [
+        "Title; B1005379; A Banquet of dreams - a wish for the future = [Past present]; Active", 
+        "Title; B1005378; Coal fired electricity; Active", 
+        "Title; B1005048; Cultural dislocation; Active; 2002", 
+        "Title; B1005492; Roar culture; Active; 1999", 
+        "Title; B1005047; Spaghetti; Active; 2002"
+    ], 
+    "part_of_compliation_title_or_vod_package": [
+        ""
+    ], 
+    "related_objects": [
+        "Title; B2001082; L'Orange; Active; 2006", 
+        "Collection; B1005258; Memory Grid Student Work Collection; Active"
+    ], 
+    "object_relationship": [
+        "lower term", 
+        "higher term"
+    ], 
+    "related_object_notes": [
+        ""
+    ], 
+    "active_carriers_public_types_and_formats_only": [
+        "Digital Betacam [PAL]; Sub-master", 
+        "VHS [PAL]; Reference - timecoded"
+    ]
+}

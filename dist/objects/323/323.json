@@ -1,0 +1,102 @@
+{
+    "system_id": 323, 
+    "permalink": "http://collections.acmi.net.au/objects/323", 
+    "record_type": "Title", 
+    "acmi_identifier": "B1001641", 
+    "title": "Blue", 
+    "other_title": [
+        ""
+    ], 
+    "other_title_type": [
+        ""
+    ], 
+    "place_of_production": [
+        "VIC/Australia"
+    ], 
+    "creation_date": [
+        "1992"
+    ], 
+    "creator_contributor_role": [
+        "Grant Noble, creator", 
+        "Grant Noble, director", 
+        "Grant Noble, animator", 
+        "Grant Noble, sound", 
+        "Christopher Steller, sound", 
+        "Elena Popa, voice", 
+        "Troy Innocent, voice", 
+        "Tim Ryan, voice", 
+        "Robyn Blake, voice", 
+        "David Atkinson, producer", 
+        "Animation and Interactive Media (AIM) RMIT, production facilities"
+    ], 
+    "colour": [
+        "Colour"
+    ], 
+    "sound_audio": [
+        "Sound"
+    ], 
+    "language_keywords": [
+        "English"
+    ], 
+    "other_languages": [
+        ""
+    ], 
+    "other_language_type": [
+        ""
+    ], 
+    "other_language_notes": [
+        ""
+    ], 
+    "length": [
+        "00:03:36"
+    ], 
+    "audience_classification": [
+        "ACMI classified"
+    ], 
+    "viewing_guidelines": [
+        "Educational use only"
+    ], 
+    "form": [
+        ""
+    ], 
+    "genre": [
+        "Animation", 
+        "Amateur & Student Films", 
+        "Animation/Clay animation", 
+        "Amateur & Student Films/Student films - Australia", 
+        "Amateur & Student Films/Student films - Australia"
+    ], 
+    "subject_group": [
+        "Advertising, Film, Journalism, Mass Media & TV/Popular culture", 
+        "Music & Performing Arts/Popular culture"
+    ], 
+    "abstract": [
+        "A comment on the flimsy nature of 20th century pop-culture"
+    ], 
+    "description": [
+        "Travellers crossing a post-apolcalyptic landscape unearth a time capsule containing the accumulated wealth and knowledge of a now extinct society (ours). They are now faced with a cruel dilemma: should they study this ancient civilization or simply consume its last remaining treasures?"
+    ], 
+    "member_object": [
+        ""
+    ], 
+    "part_of_compliation_title_or_vod_package": [
+        "Compilation title; B1000152; RMIT AIM Collection 1992; Active; 1992"
+    ], 
+    "related_objects": [
+        "Collection; B1005777; Exemplary Works; Active", 
+        "Collection; B1005391; Exemplary Works: Highlights of the Exhibitions Collection; Active"
+    ], 
+    "object_relationship": [
+        "higher term", 
+        "higher term"
+    ], 
+    "related_object_notes": [
+        ""
+    ], 
+    "active_carriers_public_types_and_formats_only": [
+        "MPEG-2 Digital File; Memory Grid Pod Full Encode", 
+        "Digital Betacam [PAL]; Master", 
+        "Digital Betacam [PAL]; Sub-master", 
+        "VHS [PAL]; Reference - timecoded"
+    ]
+}

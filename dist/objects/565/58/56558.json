@@ -3,7 +3,7 @@
     "permalink": "http://collections.acmi.net.au/objects/56558", 
     "record_type": "Title", 
     "acmi_identifier": "507934", 
-    "title": "Energy conservation & Victoria's energy (compilation)", 
+    "title": "Energy Conservation in the Home and Victoria's Energy (compilation)", 
     "other_title": [
         ""
     ], 
@@ -86,6 +86,10 @@
         ""
     ], 
     "active_carriers_public_types_and_formats_only": [
-        "VHS; Access Print (Section 1)"
+        "VHS; Access Print (Section 1)", 
+        "MOV file H264; ACMI Digital Access Copy - presentation", 
+        "MOV file H264; ACMI Digital Access Copy - presentation", 
+        "MOV file ProRes4444; Digital Preservation Master - presentation", 
+        "MOV file ProRes4444; Digital Preservation Master - presentation"
     ]
 }

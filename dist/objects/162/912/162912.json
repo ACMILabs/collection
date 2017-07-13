@@ -5,10 +5,14 @@
     "acmi_identifier": "B2003064", 
     "title": "Fred's Films. Warburton Line 1963", 
     "other_title": [
-        "Freds Films. Warburton Line 1963"
+        "Freds Films. Warburton Line 1963", 
+        "Fred's Films: Warburton Line 1963", 
+        "Warburton Line 1963"
     ], 
     "other_title_type": [
-        "Parallel search title"
+        "Parallel search title", 
+        "Website title", 
+        "Website title"
     ], 
     "place_of_production": [
         "Australia"
@@ -52,11 +56,11 @@
         "Silent films"
     ], 
     "genre": [
+        "Amateur & Student Films/Amateur films", 
         "Amateur & Student Films", 
         "Travelogue"
     ], 
     "subject_group": [
-        "Advertising, Film, Journalism, Mass Media & TV/Home movies and video", 
         "Communications, Infrastructure, & Transport/Steam-engines", 
         "Anthropology, Ethnology, Exploration & Travel/Victoria - Description and travel", 
         "Anthropology, Ethnology, Exploration & Travel/Yarra River (Vic.)"

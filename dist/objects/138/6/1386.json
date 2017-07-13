@@ -1,0 +1,101 @@
+{
+    "system_id": 1386, 
+    "permalink": "http://collections.acmi.net.au/objects/1386", 
+    "record_type": "Title", 
+    "acmi_identifier": "B1003528", 
+    "title": "Permutations", 
+    "other_title": [
+        "E.A.M.P.O.", 
+        "EAMPO"
+    ], 
+    "other_title_type": [
+        "Alternative Title", 
+        "Alternative Title"
+    ], 
+    "place_of_production": [
+        "United States"
+    ], 
+    "creation_date": [
+        "1966"
+    ], 
+    "creator_contributor_role": [
+        "John Whitney, animator", 
+        "John Whitney, creator", 
+        "Fiona Trigg, research manager"
+    ], 
+    "colour": [
+        ""
+    ], 
+    "sound_audio": [
+        ""
+    ], 
+    "language_keywords": [
+        "English"
+    ], 
+    "other_languages": [
+        ""
+    ], 
+    "other_language_type": [
+        ""
+    ], 
+    "other_language_notes": [
+        ""
+    ], 
+    "length": [
+        "00:08:00"
+    ], 
+    "audience_classification": [
+        ""
+    ], 
+    "viewing_guidelines": [
+        ""
+    ], 
+    "form": [
+        "Mixed media", 
+        "Digital Art"
+    ], 
+    "genre": [
+        "Animation", 
+        "Animation/Computer animation/2-D computer animation"
+    ], 
+    "subject_group": [
+        ""
+    ], 
+    "abstract": [
+        "the emotional power of music composition, scale & pattern"
+    ], 
+    "description": [
+        "An early example of computer generated animation; several hundred dots move about the screen according to a set of instructions in a graphics program which were input into a IBM digital computer and coloured by an optical printer. 'Action sequences, proceeding from order to disorder and back to ordered patterning, suggest a parallel to harmonic phenomena of the musical scale ... The effect is to subtly generate and resolve tension - which is similar to the primary emotional power of music composition' (John Whitney)."
+    ], 
+    "member_object": [
+        ""
+    ], 
+    "part_of_compliation_title_or_vod_package": [
+        "Compilation title; B2000286; Public Imaging compilation. No. 2; Unconfirmed; 1966-2001", 
+        "Compilation title; B2000298; John Whitney compilation; Active; 1966-1992", 
+        "Compilation title; B2000332; White Noise [exhibition film program]; Active", 
+        "Compilation title; B2000336; Deep Space compilation; Active"
+    ], 
+    "related_objects": [
+        "Collection; B1005777; Exemplary Works; Active", 
+        "Collection; B1005391; Exemplary Works: Highlights of the Exhibitions Collection; Active"
+    ], 
+    "object_relationship": [
+        "higher term", 
+        "higher term"
+    ], 
+    "related_object_notes": [
+        ""
+    ], 
+    "active_carriers_public_types_and_formats_only": [
+        "VHS [PAL]; Preview Copy", 
+        "DVD [PAL]; Copy", 
+        "DVD [PAL]; Copy", 
+        "Digital Betacam [PAL]; Master", 
+        "Digital Betacam [PAL]; Sub-master", 
+        "VHS [PAL]; Reference - timecoded", 
+        "DVD [PAL]; Exhibition Copy", 
+        "DVD [PAL]; Exhibition Copy", 
+        "DVD [PAL]; Documentation"
+    ]
+}

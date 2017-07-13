@@ -71,7 +71,7 @@
         ""
     ], 
     "part_of_compliation_title_or_vod_package": [
-        "VoD Program; B2003184; Food and Wine Program 2017; Proposed; 2016"
+        "VoD Program; B2003184; Let there be Wine!; Proposed; 2016"
     ], 
     "related_objects": [
         ""
@@ -84,6 +84,7 @@
     ], 
     "active_carriers_public_types_and_formats_only": [
         "16mm film; Access Print (Section 1)", 
-        "MOV file H264; Digital Access Copy"
+        "MOV file H264; ACMI Digital Access Copy - presentation", 
+        "MOV file ProRes4444; Digital Preservation Master - presentation"
     ]
 }

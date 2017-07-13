@@ -88,6 +88,8 @@
     ], 
     "active_carriers_public_types_and_formats_only": [
         "Mediatheque VoD Digital Access Copy", 
+        "DVCAM; Master", 
+        "DVCAM; Sub-master", 
         "DVD [PAL]; Access Print (Section 1)"
     ]
 }

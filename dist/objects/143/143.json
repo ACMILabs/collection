@@ -1,0 +1,102 @@
+{
+    "system_id": 143, 
+    "permalink": "http://collections.acmi.net.au/objects/143", 
+    "record_type": "Compilation title", 
+    "acmi_identifier": "B1000152", 
+    "title": "RMIT AIM Collection 1992", 
+    "other_title": [
+        ""
+    ], 
+    "other_title_type": [
+        ""
+    ], 
+    "place_of_production": [
+        "VIC/Australia"
+    ], 
+    "creation_date": [
+        "1992"
+    ], 
+    "creator_contributor_role": [
+        "Animation and Interactive Media (AIM) RMIT, production company", 
+        "Animation and Interactive Media (AIM) RMIT, creator", 
+        "Swinburne University of Technology, production facilities"
+    ], 
+    "colour": [
+        ""
+    ], 
+    "sound_audio": [
+        "Sound"
+    ], 
+    "language_keywords": [
+        "English"
+    ], 
+    "other_languages": [
+        ""
+    ], 
+    "other_language_type": [
+        ""
+    ], 
+    "other_language_notes": [
+        ""
+    ], 
+    "length": [
+        "00:43:10"
+    ], 
+    "audience_classification": [
+        "ACMI classified"
+    ], 
+    "viewing_guidelines": [
+        "Educational use only"
+    ], 
+    "form": [
+        ""
+    ], 
+    "genre": [
+        "Animation", 
+        "Amateur & Student Films", 
+        "Amateur & Student Films/Student films - Australia", 
+        "Amateur & Student Films/Student films - Australia"
+    ], 
+    "subject_group": [
+        ""
+    ], 
+    "abstract": [
+        "1992 student animations from RMIT (AIM)"
+    ], 
+    "description": [
+        "Compilation of student work from the University of RMIT Animation and Interactive Media (AIM) Department. 1992. The Centre for Animation and Interactive Media, its courses, facilities, staff and collection of work was transferred from Swinburne University of Technology to RMIT University in 1995."
+    ], 
+    "member_object": [
+        "Title; B1001682; Alex and the beast within; Active; 1992", 
+        "Title; B1001684; The Audition; Active; 1992", 
+        "Title; B1001641; Blue; Active; 1992", 
+        "Title; B1001645; Harry Bachelor; Active; 1992", 
+        "Title; B1001681; Icaros; Active; 1992", 
+        "Title; B1002415; Jawpan; Active; 1992", 
+        "Title; B1001643; Nevil the ninja; Active; 1992", 
+        "Title; B1001680; Robot cycle; Active; 1992", 
+        "Title; B1001644; Sintu; Active; 1992", 
+        "Title; B1001642; Sleep with the fishes; Active; 1992", 
+        "Title; B1001651; Transylvanian skies; Active; 1992", 
+        "Title; B1002414; Yum yum noodles; Active; 1992"
+    ], 
+    "part_of_compliation_title_or_vod_package": [
+        ""
+    ], 
+    "related_objects": [
+        "Collection; B1005258; Memory Grid Student Work Collection; Active", 
+        "Collection; B1006080; Memory Grid Tertiary Student Work Collection; Active"
+    ], 
+    "object_relationship": [
+        "higher term", 
+        "higher term"
+    ], 
+    "related_object_notes": [
+        ""
+    ], 
+    "active_carriers_public_types_and_formats_only": [
+        "Digital Betacam [PAL]; Master", 
+        "Digital Betacam [PAL]; Sub-master", 
+        "VHS [PAL]; Reference - timecoded"
+    ]
+}

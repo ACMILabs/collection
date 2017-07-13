@@ -11,7 +11,7 @@
         ""
     ], 
     "place_of_production": [
-        "Unknown"
+        "Australia"
     ], 
     "creation_date": [
         ""
@@ -68,13 +68,11 @@
         ""
     ], 
     "related_objects": [
-        "Title; 007460; La Trobe Cottage [B&W]; Active; 1965", 
-        "Title; 015776; Beechworth; Active; 1966", 
         "Title; 306915; Beechworth [B&W]; Active; 1966", 
-        "Title; 308554; Banjo Paterson: the bush balladeer; Active; 1994"
+        "Title; 015776; Beechworth; Active; 1966", 
+        "Title; 007460; La Trobe Cottage [B&W]; Active; 1965"
     ], 
     "object_relationship": [
-        "Episode", 
         "Episode", 
         "Episode", 
         "Episode"

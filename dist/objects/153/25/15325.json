@@ -89,7 +89,9 @@
         ""
     ], 
     "active_carriers_public_types_and_formats_only": [
+        "SP Betacam; Sub-master", 
         "DVD [PAL]; Copy", 
+        "SP Betacam; Master", 
         "Mediatheque VoD Digital Access Copy"
     ]
 }

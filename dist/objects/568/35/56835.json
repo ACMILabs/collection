@@ -18,7 +18,8 @@
     ], 
     "creator_contributor_role": [
         "Swinburne Institute of Technology. Film and Television School, production company", 
-        "Sally Ingleton, director"
+        "Sally Ingleton, director", 
+        "Gina Riley, cast"
     ], 
     "colour": [
         "Colour"
@@ -63,7 +64,7 @@
         ""
     ], 
     "description": [
-        "A biting dramatization of the effects of the new technology in deskilling the female office workforce, alienating women from the products of their labour, and rendering them replaceable by cheaper labour overseas."
+        "A biting dramatization of the effects of the new technology in deskilling the female office workforce, alienating women from the products of their labour, and rendering them replaceable by cheaper labour overseas. Cast includes a young Gina Riley."
     ], 
     "member_object": [
         ""
@@ -81,9 +82,12 @@
         ""
     ], 
     "active_carriers_public_types_and_formats_only": [
+        "MOV file H264; ACMI Digital Access Copy - presentation", 
         "VHS; Access Print (Section 1)", 
         "VHS; Access Print (Section 1)", 
         "VHS; Access Print (Section 1)", 
-        "VHS; Access Print (Section 1)"
+        "VHS; Access Print (Section 1)", 
+        "MOV file ProRes4444; Digital Preservation Master - overscan", 
+        "MOV file ProRes4444; Digital Preservation Master - presentation"
     ]
 }

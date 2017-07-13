@@ -89,6 +89,9 @@
         "16mm film; Access Print (Section 1)", 
         "16mm film; Preservation Print (Section 5)", 
         "16mm film; Access Print (Section 1)", 
-        "16mm film; Access Print (Section 1)"
+        "16mm film; Access Print (Section 1)", 
+        "Digital Betacam; Master", 
+        "MOV file H264; ACMI Digital Access Copy - presentation", 
+        "MOV file ProRes4444; Digital Preservation Master - presentation"
     ]
 }

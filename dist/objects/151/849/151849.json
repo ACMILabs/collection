@@ -90,8 +90,11 @@
         ""
     ], 
     "active_carriers_public_types_and_formats_only": [
+        "DVD; Back-up", 
+        "DVCAM; Master", 
         "DVD [PAL]; Access Print (Section 1)", 
         "DVD [PAL]; Access Print (Section 1)", 
-        "Mediatheque VoD Digital Access Copy"
+        "Mediatheque VoD Digital Access Copy", 
+        "DVCAM; Sub-master"
     ]
 }

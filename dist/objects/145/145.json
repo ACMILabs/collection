@@ -1,0 +1,109 @@
+{
+    "system_id": 145, 
+    "permalink": "http://collections.acmi.net.au/objects/145", 
+    "record_type": "Compilation title", 
+    "acmi_identifier": "B1000154", 
+    "title": "RMIT AIM Collection 1995", 
+    "other_title": [
+        ""
+    ], 
+    "other_title_type": [
+        ""
+    ], 
+    "place_of_production": [
+        "VIC/Australia"
+    ], 
+    "creation_date": [
+        ""
+    ], 
+    "creator_contributor_role": [
+        "Animation and Interactive Media (AIM) RMIT, production facilities"
+    ], 
+    "colour": [
+        ""
+    ], 
+    "sound_audio": [
+        "Sound"
+    ], 
+    "language_keywords": [
+        "English"
+    ], 
+    "other_languages": [
+        ""
+    ], 
+    "other_language_type": [
+        ""
+    ], 
+    "other_language_notes": [
+        ""
+    ], 
+    "length": [
+        "01:03:53"
+    ], 
+    "audience_classification": [
+        "ACMI classified"
+    ], 
+    "viewing_guidelines": [
+        "Educational use only"
+    ], 
+    "form": [
+        ""
+    ], 
+    "genre": [
+        "Animation", 
+        "Amateur & Student Films", 
+        "Amateur & Student Films/Student films - Australia", 
+        "Amateur & Student Films/Student films - Australia"
+    ], 
+    "subject_group": [
+        ""
+    ], 
+    "abstract": [
+        "1995 student animations from RMIT (AIM)"
+    ], 
+    "description": [
+        "Compilation of student work from the University of RMIT Animation and Interactive Media (AIM) Department. 1995."
+    ], 
+    "member_object": [
+        "Title; B1001547; Apoidea; Active; 1995", 
+        "Title; B1001289; Astrozoology 101; Active; 1995", 
+        "Title; B1001362; The Chase; Active; 1995", 
+        "Title; B1001311; Chill out!; Active; 1995", 
+        "Title; B1001524; deCollage; Active; 1995", 
+        "Title; B1001321; From the ladle to the grave; Active; 1995", 
+        "Title; B1001544; The Juggler; Active; 1995", 
+        "Title; B1001541; Killjoy; Active; 1995", 
+        "Title; B1001542; May day; Active; 1995", 
+        "Title; B1001546; Penguins off the page; Active; 1995", 
+        "Title; B1001423; The Pied piper; Active; 1995", 
+        "Title; B1001003; Pixillation; Active; 1995", 
+        "Title; B1001503; Private & confidential box; Active; 1995", 
+        "Title; B1001324; The Rainy night when the thingy caught fire and everything burned; Active; 1995", 
+        "Title; B1001543; Shift; Active; 1995", 
+        "Title; B1001525; Silent voices; Active; 1995", 
+        "Title; B1001422; Spaghetti western; Active; 1995", 
+        "Title; B1001523; This is not my city; Active; 1995", 
+        "Title; B1001341; This way up; Active; 1995", 
+        "Title; B1001021; What's up dog?; Active; 1995"
+    ], 
+    "part_of_compliation_title_or_vod_package": [
+        ""
+    ], 
+    "related_objects": [
+        "Collection; B1005258; Memory Grid Student Work Collection; Active", 
+        "Collection; B1006080; Memory Grid Tertiary Student Work Collection; Active"
+    ], 
+    "object_relationship": [
+        "higher term", 
+        "higher term"
+    ], 
+    "related_object_notes": [
+        ""
+    ], 
+    "active_carriers_public_types_and_formats_only": [
+        "VHS [PAL]; Reference - timecoded", 
+        "Digital Betacam [PAL]; Master", 
+        "MPEG-1 Digital File - 2MB Rate; Copy", 
+        "Digital Betacam [PAL]; Sub-master"
+    ]
+}

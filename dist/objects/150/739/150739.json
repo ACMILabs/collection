@@ -86,7 +86,14 @@
         ""
     ], 
     "active_carriers_public_types_and_formats_only": [
+        "Mini DV; Master", 
+        "Mini DV; Master", 
         "DVD [PAL]; Copy", 
-        "Mediatheque VoD Digital Access Copy"
+        "DVD [PAL]; Preview Copy", 
+        "DVD [PAL]; Documentation", 
+        "DVD [PAL]; Documentation", 
+        "Mediatheque VoD Digital Access Copy", 
+        "Mini DV; Sub-master", 
+        "Mini DV; Sub-master"
     ]
 }

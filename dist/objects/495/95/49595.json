@@ -5,10 +5,10 @@
     "acmi_identifier": "315392", 
     "title": "The Visit to Victoria of Her Majesty Queen Elizabeth II and His Royal Highness the Duke of Edinburgh", 
     "other_title": [
-        ""
+        "The Visit to Victoria of Her Majesty Queen Elizabeth the Second and His Royal Highness the Duke of Edinburgh"
     ], 
     "other_title_type": [
-        ""
+        "Parallel search title"
     ], 
     "place_of_production": [
         "Australia"
@@ -17,7 +17,7 @@
         "1954"
     ], 
     "creator_contributor_role": [
-        "State Film Centre of Victoria, production company"
+        "State Film Centre of Victoria, producer"
     ], 
     "colour": [
         "Colour"
@@ -78,10 +78,14 @@
         "VoD Program; B2001365; Vintage Victoria; Active; 2009"
     ], 
     "related_objects": [
-        ""
+        "Title; B1005525; Royal tour of Victoria (F0059); Active; 1954", 
+        "Title; 009305; The Visit to Victoria of Her Majesty Queen Elizabeth the Second and His Royal Highness the Duke of Edinburgh; Active; 1954", 
+        "Collection; B2003220; [Royal Visit, Victoria, 1954: Pre-Release Footage]; Active; 1954"
     ], 
     "object_relationship": [
-        ""
+        "Related Title", 
+        "Related Title", 
+        "Related Title"
     ], 
     "related_object_notes": [
         ""

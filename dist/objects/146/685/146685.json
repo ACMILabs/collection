@@ -50,7 +50,9 @@
         "On site use only"
     ], 
     "form": [
-        "Foreign language films"
+        "Foreign language films", 
+        "Feature films", 
+        "Feature films/Feature films - France"
     ], 
     "genre": [
         ""

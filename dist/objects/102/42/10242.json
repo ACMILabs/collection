@@ -1,0 +1,89 @@
+{
+    "system_id": 10242, 
+    "permalink": "http://collections.acmi.net.au/objects/10242", 
+    "record_type": "Compilation title", 
+    "acmi_identifier": "B2000209", 
+    "title": "Peter Tscherkassky films (Outerspace. L'Arrivee. Liebesfilm)", 
+    "other_title": [
+        ""
+    ], 
+    "other_title_type": [
+        ""
+    ], 
+    "place_of_production": [
+        "Austria"
+    ], 
+    "creation_date": [
+        "1981-1999"
+    ], 
+    "creator_contributor_role": [
+        "Peter Tscherkassky, creator"
+    ], 
+    "colour": [
+        ""
+    ], 
+    "sound_audio": [
+        ""
+    ], 
+    "language_keywords": [
+        ""
+    ], 
+    "other_languages": [
+        ""
+    ], 
+    "other_language_type": [
+        ""
+    ], 
+    "other_language_notes": [
+        ""
+    ], 
+    "length": [
+        "00:20:00"
+    ], 
+    "audience_classification": [
+        ""
+    ], 
+    "viewing_guidelines": [
+        ""
+    ], 
+    "form": [
+        "Digital Art", 
+        "Short films", 
+        "Short films/Short films - Austria"
+    ], 
+    "genre": [
+        "Experimental", 
+        "Experimental"
+    ], 
+    "subject_group": [
+        ""
+    ], 
+    "abstract": [
+        ""
+    ], 
+    "description": [
+        ""
+    ], 
+    "member_object": [
+        "Title; B1000565; L'Arrivee = The Arrival; Active; 1997-1998", 
+        "Title; B1000575; Liebesfilm = Film of love; Active; 1982", 
+        "Title; B1000564; Outer space; Active; 1999", 
+        "Compilation title; B1000562; [Musterrolle: a compilation of short films by Peter Tscherkassky]; Active; 1981-1999"
+    ], 
+    "part_of_compliation_title_or_vod_package": [
+        ""
+    ], 
+    "related_objects": [
+        "Compilation title; B1000562; [Musterrolle: a compilation of short films by Peter Tscherkassky]; Active; 1981-1999"
+    ], 
+    "object_relationship": [
+        "Related Title"
+    ], 
+    "related_object_notes": [
+        ""
+    ], 
+    "active_carriers_public_types_and_formats_only": [
+        "DVD [PAL]; Copy", 
+        "Digital Betacam [PAL]; Master"
+    ]
+}

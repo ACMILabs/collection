@@ -90,6 +90,9 @@
         ""
     ], 
     "active_carriers_public_types_and_formats_only": [
+        "Digital Betacam [PAL]; Sub-master", 
+        "SP Betacam; Master", 
+        "VHS [PAL]; Reference - timecoded", 
         "Mediatheque VoD Digital Access Copy"
     ]
 }

@@ -1,0 +1,91 @@
+{
+    "system_id": 10831, 
+    "permalink": "http://collections.acmi.net.au/objects/10831", 
+    "record_type": "Title", 
+    "acmi_identifier": "B2006660", 
+    "title": "AB: year 10", 
+    "other_title": [
+        ""
+    ], 
+    "other_title_type": [
+        ""
+    ], 
+    "place_of_production": [
+        "Australia"
+    ], 
+    "creation_date": [
+        "2004"
+    ], 
+    "creator_contributor_role": [
+        "Anonymous, creator", 
+        "St Paul's Anglican Grammar, school"
+    ], 
+    "colour": [
+        "Black and White"
+    ], 
+    "sound_audio": [
+        "Sound"
+    ], 
+    "language_keywords": [
+        "English"
+    ], 
+    "other_languages": [
+        ""
+    ], 
+    "other_language_type": [
+        ""
+    ], 
+    "other_language_notes": [
+        ""
+    ], 
+    "length": [
+        "00:00:48"
+    ], 
+    "audience_classification": [
+        "Exempt"
+    ], 
+    "viewing_guidelines": [
+        "Educational use only"
+    ], 
+    "form": [
+        "Short films", 
+        "Short films/Short films - Australia"
+    ], 
+    "genre": [
+        "Biographical", 
+        "Biographical/Video diary"
+    ], 
+    "subject_group": [
+        "Anthropology, Ethnology, Exploration & Travel/Youth - Australia"
+    ], 
+    "abstract": [
+        "A digital diary created by a young person from a Melbourne School as part of a Digital Diaries schools workshop at ACMI"
+    ], 
+    "description": [
+        "An anonymous digital dairy created by a young person as part of a day long workshop run by ACMI.  Each diary is scripted and a voiceover recorded by the individual young person. Some diaries use photographs brought in by the participant,  but the primary visual content is often black and white, 'stock' footage of a poetic nature. At no point should the creator or school be positively identified when screening this work."
+    ], 
+    "member_object": [
+        ""
+    ], 
+    "part_of_compliation_title_or_vod_package": [
+        "Compilation title; B2006655; Digital Diaries for Memory Grid Pods. Tape 3; Active; Dec 2004"
+    ], 
+    "related_objects": [
+        "Title; B2006657; GH: Year 10; Active; 2004", 
+        "Title; B2006664; NC: Year 10; Active; 2004"
+    ], 
+    "object_relationship": [
+        "Related Title", 
+        "Related Title"
+    ], 
+    "related_object_notes": [
+        "created in same workshop", 
+        "same workshop"
+    ], 
+    "active_carriers_public_types_and_formats_only": [
+        "MPEG-2 Digital File; Memory Grid Pod Full Encode", 
+        "DVCAM; Master", 
+        "Mini DV; Sub-master", 
+        "VHS [PAL]; Reference - timecoded"
+    ]
+}

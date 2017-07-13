@@ -102,6 +102,8 @@
         "VHS; Access Print (Section 1)", 
         "16mm film; Access Print (Section 1)", 
         "VHS; Access Print (Section 1)", 
-        "DVD [PAL]; Copy"
+        "Digital Betacam [PAL]; Master", 
+        "DVD [PAL]; Copy", 
+        "DVCAM; Sub-master"
     ]
 }
