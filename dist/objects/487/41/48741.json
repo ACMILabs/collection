@@ -3,7 +3,7 @@
     "permalink": "http://collections.acmi.net.au/objects/48741", 
     "record_type": "Title", 
     "acmi_identifier": "314494", 
-    "title": "The Fair go: winning the 1967 referendum (A)", 
+    "title": "The Fair go: winning the 1967 referendum", 
     "other_title": [
         ""
     ], 
@@ -73,7 +73,7 @@
         "Crafts & Visual Arts/Images, Photographic"
     ], 
     "abstract": [
-        ""
+        "Commemorating the 10 year campaign that won a 90.77% Yes vote in the 1967 Referendum about Indigenous citizenship."
     ], 
     "description": [
         "This documentary commemorates the 10 year campaign that won an unprecedented 90.77% Yes vote in the 1967 Referendum about Indigenous citizenship. Until that referendum the people of the oldest civilisation in the world were not counted as citizens in their own land. Told through personal interviews and rare archival footage, this film details the efforts of the people who helped change the Constitution. Narrated by Deborah Mailman."
@@ -82,7 +82,7 @@
         ""
     ], 
     "part_of_compliation_title_or_vod_package": [
-        ""
+        "VoD Program; B2003363; Reconciliation, Referendum and Mabo; Active"
     ], 
     "related_objects": [
         ""
@@ -94,6 +94,9 @@
         ""
     ], 
     "active_carriers_public_types_and_formats_only": [
-        "VHS; Access Print (Section 1)"
+        "VHS; Access Print (Section 1)", 
+        "MOV file H264; ACMI Digital Access Copy - presentation", 
+        "MOV file ProRes4444; Digital Preservation Master - presentation", 
+        "Mediatheque VoD Digital Access Copy"
     ]
 }

@@ -3,7 +3,7 @@
     "permalink": "http://collections.acmi.net.au/objects/53729", 
     "record_type": "Title", 
     "acmi_identifier": "319766", 
-    "title": "The Floating brothel [DVD]", 
+    "title": "The Floating Brothel", 
     "other_title": [
         ""
     ], 
@@ -17,14 +17,20 @@
         "2006"
     ], 
     "creator_contributor_role": [
-        "Film Australia, distributor", 
+        "National Film and Sound Archive of Australia, production company", 
         "Film Australia, production company", 
         "Essential Viewing, production company", 
+        "Chris Hilton, executive producer", 
+        "Mark Hamlyn, executive producer", 
         "Sonja Armstrong, producer", 
-        "Mark Lewis, director"
+        "Mark Lewis, director", 
+        "Mark Lewis, writer", 
+        "Jaems Grant, director of photography", 
+        "Jeff Baynes, director of photography", 
+        "Wendy Hughes, narrator"
     ], 
     "colour": [
-        "Colour"
+        "Black and White and Colour"
     ], 
     "sound_audio": [
         "Sound"
@@ -45,7 +51,7 @@
         "00:55:00"
     ], 
     "audience_classification": [
-        "M (15+)"
+        "Mediatheque - not for children (ACMI classified)"
     ], 
     "viewing_guidelines": [
         ""
@@ -72,7 +78,7 @@
         "Economics, Philosophy, Politics, Religion & Sociology/Genealogy"
     ], 
     "abstract": [
-        ""
+        "Three women uncover the rags-to-respectability tale of their ancestors - the feisty convicts who became the unlikely founding mothers of modern Australia."
     ], 
     "description": [
         "Based on the 2001 book of the same name by Sian Rees, \"The Floating Brothel\" tells the story of some of the women transported to Australia on the convict ship The Lady Juliana in 1789. As well as punishment, transportation of the women was supposed to supply the fledgling penal colony with sexual partners for the men already there, with the London Colonial Office ordering the women's keepers to \"promote a matrimonial connection to improve morals and secure settlement\". In the film, the stories of some of the women aboard The Lady Juliana - their backgrounds, their crimes, their journey, their fates in and effects upon the colony - are revealed to three of their modern-day descendants; Australian women who find out more than they bargained for about their convict ancestors. Narrated by Wendy Hughes."
@@ -81,7 +87,8 @@
         ""
     ], 
     "part_of_compliation_title_or_vod_package": [
-        ""
+        "VoD Program; B2003325; NFSA films by Stanley Hawes Award winners; Withdrawn", 
+        "VoD Program; B2002461; What's New; Active"
     ], 
     "related_objects": [
         ""

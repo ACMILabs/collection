@@ -1,0 +1,84 @@
+{
+    "system_id": 1174, 
+    "permalink": "http://collections.acmi.net.au/objects/1174", 
+    "record_type": "Title", 
+    "acmi_identifier": "B1003112", 
+    "title": "Ceci est un message enregistre", 
+    "other_title": [
+        "This is a recorded message"
+    ], 
+    "other_title_type": [
+        "Alternative Title"
+    ], 
+    "place_of_production": [
+        ""
+    ], 
+    "creation_date": [
+        "1973"
+    ], 
+    "creator_contributor_role": [
+        "National Film Board of Canada, creator"
+    ], 
+    "colour": [
+        ""
+    ], 
+    "sound_audio": [
+        ""
+    ], 
+    "language_keywords": [
+        ""
+    ], 
+    "other_languages": [
+        ""
+    ], 
+    "other_language_type": [
+        ""
+    ], 
+    "other_language_notes": [
+        ""
+    ], 
+    "length": [
+        "00:10:00"
+    ], 
+    "audience_classification": [
+        ""
+    ], 
+    "viewing_guidelines": [
+        ""
+    ], 
+    "form": [
+        ""
+    ], 
+    "genre": [
+        ""
+    ], 
+    "subject_group": [
+        ""
+    ], 
+    "abstract": [
+        ""
+    ], 
+    "description": [
+        ""
+    ], 
+    "member_object": [
+        ""
+    ], 
+    "part_of_compliation_title_or_vod_package": [
+        ""
+    ], 
+    "related_objects": [
+        "Collection; B1005390; Exhibition Collection; Active; 01 Dec 1998"
+    ], 
+    "object_relationship": [
+        "higher term"
+    ], 
+    "related_object_notes": [
+        ""
+    ], 
+    "active_carriers_public_types_and_formats_only": [
+        "Digital Betacam [PAL]; Master", 
+        "Digital Betacam [PAL]; Sub-master", 
+        "VHS [PAL]; Reference - timecoded"
+    ]
+}

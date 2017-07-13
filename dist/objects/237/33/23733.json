@@ -3,7 +3,7 @@
     "permalink": "http://collections.acmi.net.au/objects/23733", 
     "record_type": "Title", 
     "acmi_identifier": "004375", 
-    "title": "Going our way", 
+    "title": "Going Our Way", 
     "other_title": [
         ""
     ], 
@@ -88,6 +88,8 @@
     ], 
     "active_carriers_public_types_and_formats_only": [
         "16mm film; Limited Access Print (Section 2)", 
-        "16mm film; Access Print (Section 1)"
+        "16mm film; Access Print (Section 1)", 
+        "MOV file H264; ACMI Digital Access Copy - presentation", 
+        "MOV file ProRes4444; Digital Preservation Master - presentation"
     ]
 }

@@ -118,12 +118,14 @@
         ""
     ], 
     "active_carriers_public_types_and_formats_only": [
+        "Digital Betacam [PAL]; Master", 
         "VHS; Access Print (Section 1)", 
         "16mm film; Access Print (Section 1)", 
         "VHS; Access Print (Section 1)", 
         "16mm film; Limited Access Print (Section 2)", 
         "DVD [PAL]; Access Print (Section 1)", 
         "VHS; Access Print (Section 1)", 
-        "Mediatheque VoD Digital Access Copy"
+        "Mediatheque VoD Digital Access Copy", 
+        "Digital Betacam [PAL]; Sub-master"
     ]
 }

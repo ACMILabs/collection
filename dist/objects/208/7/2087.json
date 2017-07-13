@@ -1,0 +1,103 @@
+{
+    "system_id": 2087, 
+    "permalink": "http://collections.acmi.net.au/objects/2087", 
+    "record_type": "Compilation title", 
+    "acmi_identifier": "B1005231", 
+    "title": "Tina Gonsalves. Animation video 1999-2001", 
+    "other_title": [
+        ""
+    ], 
+    "other_title_type": [
+        ""
+    ], 
+    "place_of_production": [
+        "Australia"
+    ], 
+    "creation_date": [
+        "1999-2001"
+    ], 
+    "creator_contributor_role": [
+        "Tina Gonsalves, creator", 
+        "Mark Eden, sound"
+    ], 
+    "colour": [
+        "Colour"
+    ], 
+    "sound_audio": [
+        "Sound"
+    ], 
+    "language_keywords": [
+        ""
+    ], 
+    "other_languages": [
+        ""
+    ], 
+    "other_language_type": [
+        ""
+    ], 
+    "other_language_notes": [
+        ""
+    ], 
+    "length": [
+        "00:47:00"
+    ], 
+    "audience_classification": [
+        ""
+    ], 
+    "viewing_guidelines": [
+        ""
+    ], 
+    "form": [
+        "Digital Art"
+    ], 
+    "genre": [
+        "Animation", 
+        "Experimental"
+    ], 
+    "subject_group": [
+        ""
+    ], 
+    "abstract": [
+        ""
+    ], 
+    "description": [
+        ""
+    ], 
+    "member_object": [
+        "Title; B2000260; Boxing fragments; Active; 2001", 
+        "Title; B2000259; Convergence; Active; 2001", 
+        "Title; B2000251; Deeper; Active; 2001", 
+        "Title; B2000252; Dissect; Active; 2001", 
+        "Title; B2000249; Emerge; Active; 2001", 
+        "Title; B2000261; Erosion; Active; 2001", 
+        "Title; B2000250; Hollow; Active; 2001", 
+        "Title; B2000258; I don't know you; Active; 2001", 
+        "Title; B2000248; Kissing Mark; Active; 1998", 
+        "Title; B2000262; Passing through; Active; 2001", 
+        "Title; B2000257; Resonate; Active; 2001", 
+        "Title; B2000253; Three studies for a portrait. No. 1. Yesterday; Active; 2001", 
+        "Title; B2000254; Three studies for a portrait. No. 2. Today; Active; 2001", 
+        "Title; B2000256; Three studies for a portrait. No. 3. Tomorrow; Active; 2001", 
+        "Title; B2000245; Wounded; Active; 1999"
+    ], 
+    "part_of_compliation_title_or_vod_package": [
+        ""
+    ], 
+    "related_objects": [
+        "Collection; B1005390; Exhibition Collection; Active; 01 Dec 1998", 
+        "Compilation title; B1006514; Tina Gonsalves. Loss series 2002; Active; 2002"
+    ], 
+    "object_relationship": [
+        "higher term", 
+        "Related Title"
+    ], 
+    "related_object_notes": [
+        ""
+    ], 
+    "active_carriers_public_types_and_formats_only": [
+        "Mini DV; Master", 
+        "Mini DV; Master", 
+        "Digital Betacam; Sub-master", 
+        "VHS [PAL]; Reference - timecoded"
+    ]
+}

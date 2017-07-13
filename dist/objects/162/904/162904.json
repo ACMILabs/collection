@@ -5,10 +5,14 @@
     "acmi_identifier": "B2003063", 
     "title": "Fred's Films. Away to Cooma 1965", 
     "other_title": [
-        "Freds Films. Away to Cooma 1965"
+        "Freds Films. Away to Cooma 1965", 
+        "Fred's Films: Away to Cooma", 
+        "Away to Cooma"
     ], 
     "other_title_type": [
-        "Parallel search title"
+        "Parallel search title", 
+        "Website title", 
+        "Website title"
     ], 
     "place_of_production": [
         "Australia"
@@ -52,11 +56,11 @@
         "Silent films"
     ], 
     "genre": [
+        "Amateur & Student Films/Amateur films", 
         "Amateur & Student Films", 
         "Travelogue"
     ], 
     "subject_group": [
-        "Advertising, Film, Journalism, Mass Media & TV/Home movies and video", 
         "Communications, Infrastructure, & Transport/Steam-engines", 
         "Anthropology, Ethnology, Exploration & Travel/Victoria - Description and travel", 
         "Anthropology, Ethnology, Exploration & Travel/Cooma (N.S.W.)", 

@@ -7,12 +7,16 @@
     "other_title": [
         "Christmas", 
         "Freds Films. Its Christmas", 
-        "Fred's Films. It's Christmas"
+        "Fred's Films. It's Christmas", 
+        "Fred's Films: 'Tis Christmas", 
+        "'Tis Christmas"
     ], 
     "other_title_type": [
         "Parallel search title", 
         "Parallel search title", 
-        "Parallel search title"
+        "Parallel search title", 
+        "Website title", 
+        "Website title"
     ], 
     "place_of_production": [
         "Australia"
@@ -56,11 +60,11 @@
         "Silent films"
     ], 
     "genre": [
+        "Amateur & Student Films/Amateur films", 
         "Amateur & Student Films", 
         "Travelogue"
     ], 
     "subject_group": [
-        "Advertising, Film, Journalism, Mass Media & TV/Home movies and video", 
         "Communications, Infrastructure, & Transport/Steam-engines", 
         "Anthropology, Ethnology, Exploration & Travel/Victoria - Description and travel", 
         "History/Mornington Peninsula Region (Vic.) - History", 

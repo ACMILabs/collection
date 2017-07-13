@@ -91,7 +91,9 @@
         "16mm film; Limited Access Print (Section 2)", 
         "16mm film; Preservation Print (Section 5)", 
         "16mm film; Access Print (Section 1)", 
+        "Digital Betacam [PAL]; Master", 
         "DVD [PAL]; Copy", 
-        "Mediatheque VoD Digital Access Copy"
+        "Mediatheque VoD Digital Access Copy", 
+        "Digital Betacam; Sub-master"
     ]
 }

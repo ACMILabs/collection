@@ -81,6 +81,11 @@
         ""
     ], 
     "active_carriers_public_types_and_formats_only": [
+        "Digital Betacam [PAL]; Master", 
+        "Digital Betacam [PAL]; Sub-master", 
+        "VHS [PAL]; Reference - timecoded", 
+        "DVD [PAL]; Exhibition Copy", 
+        "DVD [PAL]; Exhibition Copy", 
         "Mediatheque VoD Digital Access Copy"
     ]
 }

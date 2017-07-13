@@ -102,7 +102,10 @@
     ], 
     "active_carriers_public_types_and_formats_only": [
         "Mediatheque VoD Digital Access Copy", 
+        "HDCAM; Master", 
+        "HDCAM; Sub-master", 
         "DVD [PAL]; Access Print (Section 1)", 
-        "DVD [PAL]; Access Print (Section 1)"
+        "DVD [PAL]; Access Print (Section 1)", 
+        "DVD; Back-up"
     ]
 }

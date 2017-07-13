@@ -102,7 +102,9 @@
     ], 
     "active_carriers_public_types_and_formats_only": [
         "16mm film; Preservation Print (Section 5)", 
+        "Digital Betacam [PAL]; Master", 
         "DVD [PAL]; Copy", 
-        "Mediatheque VoD Digital Access Copy"
+        "Mediatheque VoD Digital Access Copy", 
+        "DVCAM; Sub-master"
     ]
 }

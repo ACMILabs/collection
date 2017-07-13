@@ -7,12 +7,16 @@
     "other_title": [
         "Fred's Films. A.R.C. Cement Works, Geelong", 
         "Freds Films. A.R.C. Cement Works, Geelong", 
-        "Freds Films. A R C Cement Works, Geelong"
+        "Freds Films. A R C Cement Works, Geelong", 
+        "Fred's Films: ARC Cement Works Geelong [excerpt]", 
+        "ARC Cement Works Geelong [excerpt]"
     ], 
     "other_title_type": [
         "Parallel search title", 
         "Parallel search title", 
-        "Parallel search title"
+        "Parallel search title", 
+        "Website title", 
+        "Website title"
     ], 
     "place_of_production": [
         "Australia"
@@ -56,11 +60,11 @@
         "Silent films"
     ], 
     "genre": [
+        "Amateur & Student Films/Amateur films", 
         "Amateur & Student Films", 
         "Travelogue"
     ], 
     "subject_group": [
-        "Advertising, Film, Journalism, Mass Media & TV/Home movies and video", 
         "Communications, Infrastructure, & Transport/Steam-engines", 
         "Anthropology, Ethnology, Exploration & Travel/Victoria - Description and travel", 
         "Places/Geelong (Vic.)", 

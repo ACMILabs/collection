@@ -3,7 +3,7 @@
     "permalink": "http://collections.acmi.net.au/objects/27168", 
     "record_type": "Title", 
     "acmi_identifier": "008296", 
-    "title": "Personal hygiene for boys. - 2nd ed.", 
+    "title": "Personal Hygiene For Boys (second edition)", 
     "other_title": [
         ""
     ], 
@@ -89,6 +89,9 @@
     ], 
     "active_carriers_public_types_and_formats_only": [
         "16mm film; Access Print (Section 1)", 
-        "DVD [PAL]; Copy"
+        "Digital Betacam [PAL]; Master", 
+        "DVD [PAL]; Copy", 
+        "MOV file H264; ACMI Digital Access Copy - presentation", 
+        "Digital Betacam; Sub-master"
     ]
 }

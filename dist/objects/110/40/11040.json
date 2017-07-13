@@ -57,7 +57,7 @@
         "Amateur & Student Films/Amateur films"
     ], 
     "subject_group": [
-        "Advertising, Film, Journalism, Mass Media & TV/Home movies and video"
+        ""
     ], 
     "abstract": [
         "The Straford Brothers' first attempt at a hand drawn animation."
@@ -81,6 +81,9 @@
         ""
     ], 
     "active_carriers_public_types_and_formats_only": [
-        "Mediatheque VoD Digital Access Copy"
+        "Mediatheque VoD Digital Access Copy", 
+        "Mini DV; Master", 
+        "Mini DV; Sub-master", 
+        "VHS [PAL]; Reference - timecoded"
     ]
 }

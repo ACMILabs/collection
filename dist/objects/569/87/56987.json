@@ -3,7 +3,7 @@
     "permalink": "http://collections.acmi.net.au/objects/56987", 
     "record_type": "Title", 
     "acmi_identifier": "508619", 
-    "title": "Why not the kids?", 
+    "title": "Why Not the Kids?", 
     "other_title": [
         ""
     ], 
@@ -63,7 +63,7 @@
         ""
     ], 
     "description": [
-        "Episode of Series \"Changes...From the Inside\". Devised by Glenn and Les Mack for the Supplementary Grants Program of Victoria and shows how children can participate in school organization. Children at a Victorian Primary School formed a committee and applied for and were granted a Supplementary Grant. The children suggested changes in school facilities, organization and even curricula. In doing so, some of changes that occured challenged teachers' perceptions of students and caused them to reappraise their role in the school community."
+        "Episode of Series \"Changes...From the Inside\". Devised by Glenn and Les Mack for the Supplementary Grants Program of Victoria and shows how children can participate in school organisation. Children at a Victorian Primary School formed a committee and applied for and were granted a Supplementary Grant. The children suggested changes in school facilities, organisation and even curricula. In doing so, some of changes that occured challenged teachers' perceptions of students and caused them to reappraise their role in the school community."
     ], 
     "member_object": [
         ""
@@ -81,6 +81,9 @@
         ""
     ], 
     "active_carriers_public_types_and_formats_only": [
-        "VHS; Access Print (Section 1)"
+        "VHS; Access Print (Section 1)", 
+        "MOV file ProRes4444; Digital Preservation Master - presentation", 
+        "MOV file ProRes4444; Digital Preservation Master - overscan", 
+        "MOV file H264; ACMI Digital Access Copy - presentation"
     ]
 }

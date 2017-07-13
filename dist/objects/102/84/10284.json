@@ -1,0 +1,101 @@
+{
+    "system_id": 10284, 
+    "permalink": "http://collections.acmi.net.au/objects/10284", 
+    "record_type": "Compilation title", 
+    "acmi_identifier": "B1002743", 
+    "title": "AFI Collection: a selection of tertiary student films. Tape 1", 
+    "other_title": [
+        ""
+    ], 
+    "other_title_type": [
+        ""
+    ], 
+    "place_of_production": [
+        "Australia"
+    ], 
+    "creation_date": [
+        "1993-1998"
+    ], 
+    "creator_contributor_role": [
+        ""
+    ], 
+    "colour": [
+        "Colour"
+    ], 
+    "sound_audio": [
+        "Sound"
+    ], 
+    "language_keywords": [
+        "English"
+    ], 
+    "other_languages": [
+        ""
+    ], 
+    "other_language_type": [
+        ""
+    ], 
+    "other_language_notes": [
+        ""
+    ], 
+    "length": [
+        "01:35:00"
+    ], 
+    "audience_classification": [
+        "Exempt"
+    ], 
+    "viewing_guidelines": [
+        "Educational use only"
+    ], 
+    "form": [
+        "Short films", 
+        "Short films/Short films - Australia"
+    ], 
+    "genre": [
+        "Animation", 
+        "Amateur & Student Films", 
+        "Amateur & Student Films/Student films - Australia", 
+        "Experimental"
+    ], 
+    "subject_group": [
+        ""
+    ], 
+    "abstract": [
+        "A selection of Australian tertiary student films"
+    ], 
+    "description": [
+        ""
+    ], 
+    "member_object": [
+        "Title; B1003010; Ashputtle: or the mother's ghost; Active; 1998", 
+        "Title; B1003523; The Darra dogs; Active; 1993", 
+        "Title; B1003535; The Drive home; Active; 1993", 
+        "Title; B1001875; Food (for) thought; Active; 1994", 
+        "Title; B1003549; Harry The Human Fly; Active; 1997", 
+        "Title; B1003551; Has beans; Active; 1998", 
+        "Title; B1002065; His mother's voice; Active; 1996", 
+        "Title; B1003580; A Saucer of water for the birds; Active; 1993", 
+        "Title; B1003575; Seabound; Active; 1997", 
+        "Title; B1003616; Small treasures; Active; 1995", 
+        "Title; B1002064; Uncle; Active; 1996"
+    ], 
+    "part_of_compliation_title_or_vod_package": [
+        ""
+    ], 
+    "related_objects": [
+        "Collection; B1003629; AFI Collection; Active; 14 Apr 2002", 
+        "Compilation title; B1002742; AFI Collection: a selection of tertiary student films. Tape 2; Active"
+    ], 
+    "object_relationship": [
+        "higher term", 
+        "Related Title"
+    ], 
+    "related_object_notes": [
+        ""
+    ], 
+    "active_carriers_public_types_and_formats_only": [
+        "Digital Betacam; Master", 
+        "VHS [PAL]; Reference - timecoded", 
+        "Digital Betacam [PAL]; Sub-master", 
+        "VHS [PAL]; Reference - timecoded"
+    ]
+}

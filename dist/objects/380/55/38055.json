@@ -5,10 +5,10 @@
     "acmi_identifier": "303304", 
     "title": "Whitewashed (A)", 
     "other_title": [
-        ""
+        "White Washed"
     ], 
     "other_title_type": [
-        ""
+        "Parallel search title"
     ], 
     "place_of_production": [
         "Australia"
@@ -85,6 +85,8 @@
         "VHS; Access Print (Section 1)", 
         "VHS; Access Print (Section 1)", 
         "VHS; Access Print (Section 1)", 
-        "VHS; Access Print (Section 1)"
+        "VHS; Access Print (Section 1)", 
+        "MOV file H264; ACMI Digital Access Copy - presentation", 
+        "MOV file ProRes4444; Digital Preservation Master - presentation"
     ]
 }

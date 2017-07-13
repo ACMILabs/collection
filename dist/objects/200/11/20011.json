@@ -3,7 +3,7 @@
     "permalink": "http://collections.acmi.net.au/objects/20011", 
     "record_type": "Title", 
     "acmi_identifier": "000011", 
-    "title": "Fifty Years of service", 
+    "title": "Fifty Years of Service", 
     "other_title": [
         "50 years of service"
     ], 
@@ -92,6 +92,8 @@
         "16mm film; Preservation Print (Section 5)", 
         "16mm film; Limited Access Print (Section 2)", 
         "16mm film; Access Print (Section 1)", 
-        "16mm film; Access Print (Section 1)"
+        "16mm film; Access Print (Section 1)", 
+        "MOV file H264; ACMI Digital Access Copy - presentation", 
+        "MOV file ProRes4444; Digital Preservation Master - presentation"
     ]
 }

@@ -69,7 +69,7 @@
         ""
     ], 
     "description": [
-        "A mother, isolated in an outer Adelaide suburb, drives a station wagon full of children to a distant beach. Imagination and reality fuse. Her sense of herself is assaulted by car fetishists in a rural service station. Memory, fear and fantasy are interwoven as this experimental film takes woman's assigned role in the 'Australian Dream' to its absurd conclusion. Music: Brian Eno, The Fabulous Nudes, The Pelaco Bros."
+        "A mother, isolated in an outer Adelaide suburb, drives a station wagon full of children to a distant beach. Imagination and reality fuse. Her sense of herself is assaulted by car fetishists in a rural service station. Memory, fear and fantasy are interwoven as this experimental film takes woman's assigned role in the 'Australian Dream' to its absurd conclusion. Music: Brian Eno, The Fabulous Nudes, The Pelaco Bros. Actors include Pauline Sedgwick, Daniel Sedgwick, Lisa Sedgwick, Gareth Sedgwick and Katrina Sedgwick."
     ], 
     "member_object": [
         ""
@@ -89,6 +89,9 @@
     "active_carriers_public_types_and_formats_only": [
         "16mm film; Preservation Print (Section 5)", 
         "16mm film; Limited Access Print (Section 2)", 
-        "VHS; Access Print (Section 1)"
+        "VHS; Access Print (Section 1)", 
+        "MOV file H264; ACMI Digital Access Copy - presentation", 
+        "MOV file ProRes4444; Digital Preservation Master - overscan", 
+        "MOV file ProRes4444; Digital Preservation Master - presentation"
     ]
 }

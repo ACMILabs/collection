@@ -1,0 +1,105 @@
+{
+    "system_id": 10368, 
+    "permalink": "http://collections.acmi.net.au/objects/10368", 
+    "record_type": "Compilation title", 
+    "acmi_identifier": "B1005732", 
+    "title": "RMIT AIM Collection 2000", 
+    "other_title": [
+        ""
+    ], 
+    "other_title_type": [
+        ""
+    ], 
+    "place_of_production": [
+        "VIC/Australia"
+    ], 
+    "creation_date": [
+        "2000"
+    ], 
+    "creator_contributor_role": [
+        "Animation and Interactive Media (AIM) RMIT, production facilities"
+    ], 
+    "colour": [
+        ""
+    ], 
+    "sound_audio": [
+        ""
+    ], 
+    "language_keywords": [
+        ""
+    ], 
+    "other_languages": [
+        ""
+    ], 
+    "other_language_type": [
+        ""
+    ], 
+    "other_language_notes": [
+        ""
+    ], 
+    "length": [
+        ""
+    ], 
+    "audience_classification": [
+        "ACMI classified"
+    ], 
+    "viewing_guidelines": [
+        "Educational use only"
+    ], 
+    "form": [
+        "Short films", 
+        "Short films/Short films - Australia"
+    ], 
+    "genre": [
+        "Animation", 
+        "Amateur & Student Films", 
+        "Amateur & Student Films/Student films - Australia"
+    ], 
+    "subject_group": [
+        ""
+    ], 
+    "abstract": [
+        "2000 student animations from RMIT (AIM)"
+    ], 
+    "description": [
+        "Compilation of student work from the University of RMIT Animation and Interactive Media (AIM) Department. 2000."
+    ], 
+    "member_object": [
+        "Title; B1003627; City of spare parts; Active; 2000", 
+        "Title; B1002994; Cog; Active; 2000", 
+        "Title; B1006000; Helium; Active; 2000", 
+        "Title; B1005994; The Host monogama; Active; 2000", 
+        "Title; B1005991; Journey's end; Active; 2000", 
+        "Title; B1005676; The Last game; Active; 2000", 
+        "Title; B1005988; The Mootrix; Active; 2000", 
+        "Title; B1005993; Out of time; Active; 2000", 
+        "Title; B1005996; Panorama; Active; 2000", 
+        "Title; B1005989; Preserving wax; Active; 2000", 
+        "Title; B1005998; Sac sac; Active; 2000", 
+        "Title; B1005990; Sheep thing plus ladder equals one; Active; 2000", 
+        "Title; B1006001; Shopper; Active; 2000", 
+        "Title; B1005997; T>IU; Active; 2000", 
+        "Title; B1005992; Take me to your Lager; Active; 2000", 
+        "Title; B1005995; Window pains; Active; 2000", 
+        "Title; B1005999; Wrong decision; Active; 2000"
+    ], 
+    "part_of_compliation_title_or_vod_package": [
+        ""
+    ], 
+    "related_objects": [
+        "Collection; B1005258; Memory Grid Student Work Collection; Active", 
+        "Collection; B1006080; Memory Grid Tertiary Student Work Collection; Active"
+    ], 
+    "object_relationship": [
+        "higher term", 
+        "higher term"
+    ], 
+    "related_object_notes": [
+        ""
+    ], 
+    "active_carriers_public_types_and_formats_only": [
+        "SP Betacam; Master", 
+        "Digital Betacam; Sub-master", 
+        "VHS [PAL]; Reference - timecoded"
+    ]
+}

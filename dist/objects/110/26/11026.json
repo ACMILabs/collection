@@ -84,6 +84,12 @@
         ""
     ], 
     "active_carriers_public_types_and_formats_only": [
-        "Mediatheque VoD Digital Access Copy"
+        "MPEG-2 Digital File; Memory Grid Pod Full Encode", 
+        "Digital Betacam; Sub-master", 
+        "Digital Betacam; Master", 
+        "Mini DV; Master", 
+        "Mediatheque VoD Digital Access Copy", 
+        "Mini DV; Sub-master", 
+        "VHS [PAL]; Reference - timecoded"
     ]
 }

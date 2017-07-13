@@ -1,0 +1,93 @@
+{
+    "system_id": 492, 
+    "permalink": "http://collections.acmi.net.au/objects/492", 
+    "record_type": "Title", 
+    "acmi_identifier": "B1001950", 
+    "title": "Rise", 
+    "other_title": [
+        ""
+    ], 
+    "other_title_type": [
+        ""
+    ], 
+    "place_of_production": [
+        "Australia"
+    ], 
+    "creation_date": [
+        "1998"
+    ], 
+    "creator_contributor_role": [
+        "Emma Sleath, creator", 
+        "Emma Sleath, director", 
+        "Mark Lane, photographer", 
+        "VCA, production company", 
+        "VCA, producer"
+    ], 
+    "colour": [
+        ""
+    ], 
+    "sound_audio": [
+        ""
+    ], 
+    "language_keywords": [
+        "No spoken word"
+    ], 
+    "other_languages": [
+        ""
+    ], 
+    "other_language_type": [
+        ""
+    ], 
+    "other_language_notes": [
+        ""
+    ], 
+    "length": [
+        ""
+    ], 
+    "audience_classification": [
+        "unclassified"
+    ], 
+    "viewing_guidelines": [
+        ""
+    ], 
+    "form": [
+        "Short films", 
+        "Short films", 
+        "Short films/Short films - Australia"
+    ], 
+    "genre": [
+        "Documentary"
+    ], 
+    "subject_group": [
+        ""
+    ], 
+    "abstract": [
+        "a celebration of the people who live in Melbourne's high-rise public housing"
+    ], 
+    "description": [
+        "'Rise' is a revealing look at the lives contained within a Melbourne Housing Commission estate. Set against the backdrop of a high-rise building, this is a visual account of a largely unknown environment: as the camera moves through the building, a series of portraits unfolds, telling the stories of people from a wide range of cultural backgrounds. In the context of high density living, 'Rise' is a celebration of the individual."
+    ], 
+    "member_object": [
+        ""
+    ], 
+    "part_of_compliation_title_or_vod_package": [
+        ""
+    ], 
+    "related_objects": [
+        "Collection; B1003629; AFI Collection; Active; 14 Apr 2002", 
+        "Collection; B1004277; Public Programs Collection; Active"
+    ], 
+    "object_relationship": [
+        "higher term", 
+        "higher term"
+    ], 
+    "related_object_notes": [
+        ""
+    ], 
+    "active_carriers_public_types_and_formats_only": [
+        "VHS [PAL]; Reference - timecoded", 
+        "Digital Betacam [PAL]; Master", 
+        "Digital Betacam [PAL]; Sub-master", 
+        "VHS [PAL]; Reference - timecoded"
+    ]
+}

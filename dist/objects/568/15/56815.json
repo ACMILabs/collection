@@ -5,10 +5,14 @@
     "acmi_identifier": "508378", 
     "title": "Don't think I don't think. Fair enough", 
     "other_title": [
-        ""
+        "Dont think I dont think. Fair enough", 
+        "Don't think I dont think. Fair enough", 
+        "Dont think I don't think. Fair enough"
     ], 
     "other_title_type": [
-        ""
+        "Parallel search title", 
+        "Parallel search title", 
+        "Parallel search title"
     ], 
     "place_of_production": [
         "Australia"
@@ -86,6 +90,11 @@
     "active_carriers_public_types_and_formats_only": [
         "VHS; Access Print (Section 1)", 
         "VHS; Access Print (Section 1)", 
-        "VHS; Access Print (Section 1)"
+        "VHS; Access Print (Section 1)", 
+        "MOV file H264; ACMI Digital Access Copy - presentation", 
+        "MOV file ProRes4444; Digital Preservation Master - overscan", 
+        "MOV file ProRes4444; Digital Preservation Master - presentation", 
+        "MOV file ProRes4444; Digital Preservation Master - presentation", 
+        "MOV file ProRes4444; Digital Preservation Master - overscan"
     ]
 }

@@ -1,0 +1,97 @@
+{
+    "system_id": 10454, 
+    "permalink": "http://collections.acmi.net.au/objects/10454", 
+    "record_type": "Compilation title", 
+    "acmi_identifier": "B2000166", 
+    "title": "MAP compile loops 1 & 2", 
+    "other_title": [
+        ""
+    ], 
+    "other_title_type": [
+        ""
+    ], 
+    "place_of_production": [
+        "VIC/Australia"
+    ], 
+    "creation_date": [
+        "2002"
+    ], 
+    "creator_contributor_role": [
+        "ACMI, producer"
+    ], 
+    "colour": [
+        "Colour", 
+        "Black and White"
+    ], 
+    "sound_audio": [
+        "Sound"
+    ], 
+    "language_keywords": [
+        "English"
+    ], 
+    "other_languages": [
+        ""
+    ], 
+    "other_language_type": [
+        ""
+    ], 
+    "other_language_notes": [
+        ""
+    ], 
+    "length": [
+        "00:23:42"
+    ], 
+    "audience_classification": [
+        "ACMI classified"
+    ], 
+    "viewing_guidelines": [
+        "Educational use only"
+    ], 
+    "form": [
+        ""
+    ], 
+    "genre": [
+        "Biographical", 
+        "Documentary"
+    ], 
+    "subject_group": [
+        "Food, Health, Lifestyle, Medicine, Psychology & Safety/Memory", 
+        "History/Australia - History", 
+        "History/History", 
+        "Anthropology, Ethnology, Exploration & Travel/Victoria - Description and travel", 
+        "Anthropology, Ethnology, Exploration & Travel/Victoria - Social life and customs"
+    ], 
+    "abstract": [
+        "2 part compilation of MAP submissions from early days of the project"
+    ], 
+    "description": [
+        "The Memory and Place (MAP) project captures stories, feelings and memories that we attach to places we know. This compile, in two parts, presents some of those stories and excerpts from the MAP Collection project: MAP #1: Brunswick (Froggie's gone), Northcote (Westbourne Grove), Cohuna (Tom Olsson's Cohuna), Kensington (ReLocated - The Venny kids), Collingwood (North), Dunolly (The Posidon rush) MAP #2: Carlton (Lygon Street), Ararat (Memories of Ararat c1930), Preston (Festival of kites), Burnley (Stack)"
+    ], 
+    "member_object": [
+        "Title; B1004742; Festival of kites; Active; 2001", 
+        "Title; B1004128; Froggie's gone; Active; 2001", 
+        "Title; B1004705; Lygon Street; Active; 2002", 
+        "Title; B1004669; North; Active; 2002", 
+        "Title; B1004701; The Posidon Rush - Jack Flett; Active; 1986", 
+        "Title; B1004685; reLOCATED - The Venny kids; Active; 2002", 
+        "Title; B1004130; Stack; Active; 2001", 
+        "Title; B1004677; Tom Olsson's Cohuna; Active; 1952", 
+        "Title; B1004695; Westbourne Grove; Active; 2002", 
+        "Title; B1004691; Cohuna celebrates the coronation of QE II; Active; 1952"
+    ], 
+    "part_of_compliation_title_or_vod_package": [
+        ""
+    ], 
+    "related_objects": [
+        "Collection; B1003241; Memory Grid MAP Project Collection; Active; 2002"
+    ], 
+    "object_relationship": [
+        "higher term"
+    ], 
+    "related_object_notes": [
+        ""
+    ], 
+    "active_carriers_public_types_and_formats_only": [
+        "DVD ROM; Copy"
+    ]
+}

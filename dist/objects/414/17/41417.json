@@ -3,7 +3,7 @@
     "permalink": "http://collections.acmi.net.au/objects/41417", 
     "record_type": "Title", 
     "acmi_identifier": "306815", 
-    "title": "Rats in the ranks", 
+    "title": "Rats in the Ranks", 
     "other_title": [
         ""
     ], 
@@ -17,11 +17,21 @@
         "1996"
     ], 
     "creator_contributor_role": [
-        "Film Australia, distributor", 
+        "National Film and Sound Archive of Australia, production company", 
         "Film Australia, production company", 
         "Arundel Productions, production company", 
-        "Bob Connolly, co-producers/directors", 
-        "Robin Anderson, co-producers/directors"
+        "Chris Oliver, executive producer", 
+        "Bob Connolly, co-producer", 
+        "Robin Anderson, co-producer", 
+        "Bob Connolly, co-director", 
+        "Robin Anderson, co-director", 
+        "Bob Connolly, writer", 
+        "Robin Anderson, writer", 
+        "Bob Connolly, director of photography", 
+        "Larry Hand, contributor", 
+        "Evan Jones, contributor", 
+        "Kate Butler, contributor", 
+        "Neil MacIndoe, contributor"
     ], 
     "colour": [
         "Colour"
@@ -45,7 +55,7 @@
         "01:35:00"
     ], 
     "audience_classification": [
-        "MA"
+        "Mediatheque - all ages (ACMI classified)"
     ], 
     "viewing_guidelines": [
         ""
@@ -67,7 +77,7 @@
         "Economics, Philosophy, Politics, Religion & Sociology/Politics - Australia"
     ], 
     "abstract": [
-        ""
+        "The best policies in the world mean nothing unless you've got the numbers. This film takes a behind-locked-doors look at how politicians get the numbers."
     ], 
     "description": [
         "A behind-the-scenes look at political manouevering during the Mayoral elections for the Leichardt Council. Incumbant Larry Hand, while popular with the voters is not so popular with the Council. In the Mayoral elections, the Council not the citizens vote, so Hand and his opposition engage in a battle of political tactics including calling in favours, backstabbing and media leaks. Gripping real life drama with a knuckle biting climax."
@@ -76,7 +86,8 @@
         ""
     ], 
     "part_of_compliation_title_or_vod_package": [
-        ""
+        "VoD Program; B2003325; NFSA films by Stanley Hawes Award winners; Withdrawn", 
+        "VoD Program; B2002461; What's New; Active"
     ], 
     "related_objects": [
         ""

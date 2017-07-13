@@ -1,0 +1,103 @@
+{
+    "system_id": 10846, 
+    "permalink": "http://collections.acmi.net.au/objects/10846", 
+    "record_type": "Compilation title", 
+    "acmi_identifier": "B2006666", 
+    "title": "Malcolm McKinnon: 6 films for MAP at ACMI", 
+    "other_title": [
+        ""
+    ], 
+    "other_title_type": [
+        ""
+    ], 
+    "place_of_production": [
+        "VIC/Australia"
+    ], 
+    "creation_date": [
+        "2004"
+    ], 
+    "creator_contributor_role": [
+        "Malcolm McKinnon, director", 
+        "Malcolm McKinnon, producer", 
+        "Malcolm McKinnon, screenwriter"
+    ], 
+    "colour": [
+        ""
+    ], 
+    "sound_audio": [
+        "Sound"
+    ], 
+    "language_keywords": [
+        "English"
+    ], 
+    "other_languages": [
+        ""
+    ], 
+    "other_language_type": [
+        ""
+    ], 
+    "other_language_notes": [
+        ""
+    ], 
+    "length": [
+        "00:21:17"
+    ], 
+    "audience_classification": [
+        "ACMI classified"
+    ], 
+    "viewing_guidelines": [
+        "Educational use only"
+    ], 
+    "form": [
+        ""
+    ], 
+    "genre": [
+        "Biographical", 
+        "Documentary"
+    ], 
+    "subject_group": [
+        "Economics, Philosophy, Politics, Religion & Sociology/Communities", 
+        "Anthropology, Ethnology, Exploration & Travel/Victoria - Description and travel", 
+        "Food, Health, Lifestyle, Medicine, Psychology & Safety/Memory", 
+        "Family, Gender Identity, Relationships & Sexuality/Family", 
+        "Anthropology, Ethnology, Exploration & Travel/Victoria - Social life and customs", 
+        "Anthropology, Ethnology, Exploration & Travel/Victoria - Rural conditions", 
+        "Economics, Philosophy, Politics, Religion & Sociology/Rural conditions", 
+        "History/Australia - History", 
+        "Agriculture, Business, Commerce & Industry/Rural conditions", 
+        "Anthropology, Ethnology, Exploration & Travel/Rural conditions", 
+        "Climate, Environment, Natural Resources & Disasters/Rural conditions"
+    ], 
+    "abstract": [
+        "6 mini-docos on local stories, by locals from the Wimmera/Mallee region"
+    ], 
+    "description": [
+        "A collection of six short documentary films from an ongoing project between the filmmaker, Malcolm McKinnon, and small museums in the Wimmera farming region of Victoria. They comprise of local stories told by local people from such areas as Warracknabeal, Rainbow, Murtoa, Brim and Coromby."
+    ], 
+    "member_object": [
+        "Title; B2006670; A Bulldog man; Active; 2003", 
+        "Title; B2006667; Coromby - every Monday night; Active; 2003", 
+        "Title; B2006668; Disappeared racecourses of north west Victoria; Active; 2003", 
+        "Title; B2006671; Dispensing a cure; Active; 2003", 
+        "Title; B2006669; The Finest of wheat; Active; 2003", 
+        "Title; B2006672; Marsupial memories; Active; 2004"
+    ], 
+    "part_of_compliation_title_or_vod_package": [
+        ""
+    ], 
+    "related_objects": [
+        "Collection; B1003241; Memory Grid MAP Project Collection; Active; 2002"
+    ], 
+    "object_relationship": [
+        "higher term"
+    ], 
+    "related_object_notes": [
+        ""
+    ], 
+    "active_carriers_public_types_and_formats_only": [
+        "DVCAM; Master", 
+        "DVD [PAL]; Copy", 
+        "VHS [PAL]; Reference - timecoded", 
+        "Digital Betacam [PAL]; Sub-master"
+    ]
+}

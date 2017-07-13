@@ -3,12 +3,16 @@
     "permalink": "http://collections.acmi.net.au/objects/56614", 
     "record_type": "Title", 
     "acmi_identifier": "508038", 
-    "title": "No 1 on the charts", 
+    "title": "No. 1 On the Charts : A Look at the Australian Pop Music Industry", 
     "other_title": [
-        ""
+        "No. One On the Charts", 
+        "Number 1 On the Charts", 
+        "Number One On the Charts"
     ], 
     "other_title_type": [
-        ""
+        "Parallel search title", 
+        "Parallel search title", 
+        "Parallel search title"
     ], 
     "place_of_production": [
         "Australia"
@@ -88,6 +92,8 @@
         "VHS; Access Print (Section 1)", 
         "VHS; Access Print (Section 1)", 
         "VHS; Access Print (Section 1)", 
-        "VHS; Access Print (Section 1)"
+        "VHS; Access Print (Section 1)", 
+        "MOV file H264; ACMI Digital Access Copy - presentation", 
+        "MOV file ProRes4444; Digital Preservation Master - presentation"
     ]
 }

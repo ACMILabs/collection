@@ -3,7 +3,7 @@
     "permalink": "http://collections.acmi.net.au/objects/53892", 
     "record_type": "Title", 
     "acmi_identifier": "500813", 
-    "title": "Journey of a nation", 
+    "title": "Journey of a Nation", 
     "other_title": [
         ""
     ], 
@@ -17,8 +17,14 @@
         "1947"
     ], 
     "creator_contributor_role": [
+        "National Film and Sound Archive of Australia, production company", 
         "Australian National Film Board, production company", 
-        "John Heyer, producer/director"
+        "John Heyer, producer", 
+        "John Heyer, director", 
+        "Catherine Duncan, writer", 
+        "Frank Bagnall, director of photography", 
+        "Geoff Powell, director of photography", 
+        "Jim Wood, narrator"
     ], 
     "colour": [
         "Black and White"
@@ -42,7 +48,7 @@
         "00:11:10"
     ], 
     "audience_classification": [
-        ""
+        "Mediatheque - all ages (ACMI classified)"
     ], 
     "viewing_guidelines": [
         ""
@@ -62,7 +68,7 @@
         "Economics, Philosophy, Politics, Religion & Sociology/State governments - Australia"
     ], 
     "abstract": [
-        ""
+        "Award winning master documentary filmmaker John Heyer (Back of Beyond, 1954) transforms this film about the standardisation of Australian rail gauges into a heroic poem to the nation."
     ], 
     "description": [
         "This film deals with the need for unification of rail gauges in Australia by showing just what the breaks in gauge at the States' borders mean to the people who have to ship their goods interstate; particularly primary producers. It also makes a very lively plea for unification, treating its subject humanly, stressing the vital importance of rail transportation in a continent of such vast distances as Australia."
@@ -71,7 +77,8 @@
         ""
     ], 
     "part_of_compliation_title_or_vod_package": [
-        ""
+        "VoD Program; B2003325; NFSA films by Stanley Hawes Award winners; Withdrawn", 
+        "VoD Program; B2002461; What's New; Active"
     ], 
     "related_objects": [
         ""

@@ -84,7 +84,7 @@
         ""
     ], 
     "part_of_compliation_title_or_vod_package": [
-        "VoD Program; B2002461; What's New; Active"
+        ""
     ], 
     "related_objects": [
         ""
@@ -96,6 +96,7 @@
         ""
     ], 
     "active_carriers_public_types_and_formats_only": [
+        "MOV file ProRes4444; Digital Preservation Master - presentation", 
         "Mediatheque VoD Digital Access Copy"
     ]
 }

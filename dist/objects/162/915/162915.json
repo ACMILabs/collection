@@ -6,11 +6,15 @@
     "title": "Fred's Films. The Train that refused to die: Puffing Billy", 
     "other_title": [
         "Little Bloke", 
-        "Freds Films. The Train that refused to die: Puffing Billy"
+        "Freds Films. The Train that refused to die: Puffing Billy", 
+        "Fred's Films: The Train that refused to die: Puffing Billy", 
+        "Fred's Films. The Train that refused to die: Puffing Billy"
     ], 
     "other_title_type": [
         "Alternative Title", 
-        "Parallel search title"
+        "Parallel search title", 
+        "Website title", 
+        "Website title"
     ], 
     "place_of_production": [
         "Australia"
@@ -54,11 +58,11 @@
         "Silent films"
     ], 
     "genre": [
+        "Amateur & Student Films/Amateur films", 
         "Amateur & Student Films", 
         "Travelogue"
     ], 
     "subject_group": [
-        "Advertising, Film, Journalism, Mass Media & TV/Home movies and video", 
         "Communications, Infrastructure, & Transport/Steam-engines", 
         "Anthropology, Ethnology, Exploration & Travel/Victoria - Description and travel", 
         "Communications, Infrastructure, & Transport/Puffing Billy (Locomotive)"

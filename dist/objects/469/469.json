@@ -82,7 +82,15 @@
         ""
     ], 
     "active_carriers_public_types_and_formats_only": [
+        "Digital Betacam [PAL]; Sub-master", 
+        "VHS [PAL]; Preview Copy", 
+        "DVD [PAL]; Exhibition Copy", 
+        "DVD [PAL]; Exhibition Copy", 
+        "VHS [PAL]; Reference - timecoded", 
         "VHS [PAL]; Copy", 
+        "CD ROM; Documentation", 
+        "Digital Betacam [PAL]; Master", 
+        "CD ROM; Master", 
         "Mediatheque VoD Digital Access Copy"
     ]
 }

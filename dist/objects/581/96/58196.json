@@ -68,12 +68,12 @@
         ""
     ], 
     "related_objects": [
-        "Title; 014747; Richard the Second; Active; 1979", 
-        "Title; 014748; As You Like It; Active; 1978", 
-        "Title; 014749; Henry the Eighth; Active; 1979", 
+        "Title; 014747; Richard the Second; Withdrawn; 1979", 
+        "Title; 014748; As You Like It; Withdrawn; 1978", 
+        "Title; 014749; Henry the Eighth; Withdrawn; 1979", 
         "Title; 014751; Merchant of Venice; Withdrawn and retained; 1980", 
-        "Title; 014752; Julius Caesar; Active; 1979", 
-        "Title; 015648; Measure for measure; Active; 1979"
+        "Title; 014752; Julius Caesar; Withdrawn; 1979", 
+        "Title; 015648; Measure for measure; Withdrawn; 1979"
     ], 
     "object_relationship": [
         "Episode", 

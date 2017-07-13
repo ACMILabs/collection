@@ -84,6 +84,8 @@
         ""
     ], 
     "active_carriers_public_types_and_formats_only": [
-        "16mm film; Access Print (Section 1)"
+        "16mm film; Access Print (Section 1)", 
+        "Digital Betacam [PAL]; Sub-master", 
+        "Mini DV; Sub-master"
     ]
 }

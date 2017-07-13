@@ -78,6 +78,7 @@
         ""
     ], 
     "active_carriers_public_types_and_formats_only": [
-        "Mediatheque VoD Digital Access Copy"
+        "Mediatheque VoD Digital Access Copy", 
+        "MOV file ProRes4444; Digital Preservation Master - presentation"
     ]
 }

@@ -58,7 +58,9 @@
     "subject_group": [
         "History/History", 
         "Crafts & Visual Arts/Community art projects", 
-        "Places/Melbourne (Vic.)"
+        "Places/Melbourne (Vic.)", 
+        "Anthropology, Ethnology, Exploration & Travel/Parades", 
+        "Anthropology, Ethnology, Exploration & Travel/Festivals - Australia"
     ], 
     "abstract": [
         "The first Sun Queen of Moomba tells her story."
@@ -82,6 +84,8 @@
         ""
     ], 
     "active_carriers_public_types_and_formats_only": [
-        "Mediatheque VoD Digital Access Copy"
+        "Mediatheque VoD Digital Access Copy", 
+        "DVD [PAL]; Master", 
+        "Digital Betacam; Sub-master"
     ]
 }

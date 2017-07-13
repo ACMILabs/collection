@@ -89,13 +89,22 @@
         ""
     ], 
     "related_objects": [
-        "Series; S00914; The Work that was; Active"
+        "Title; 012958; Futures; Active; 1979", 
+        "Title; 012961; Who pays the price?; Active; 1979", 
+        "Series; S00914; The Work That Was; Active", 
+        "Title; 015221; The Work That Was. Parts 1 & 2; Active; 1979"
     ], 
     "object_relationship": [
-        "Series Title"
+        "Related Title", 
+        "Related Title", 
+        "Series Title", 
+        "Related Title"
     ], 
     "related_object_notes": [
-        ""
+        "", 
+        "", 
+        "", 
+        "Separately held Title containing \"Futures\" and \"Who Pays the Price?\""
     ], 
     "active_carriers_public_types_and_formats_only": [
         "16mm film; Limited Access Print (Section 2)", 

@@ -75,7 +75,7 @@
         "History/Vietnam War, 1961-1975", 
         "Armed Forces, Military, War & Weapons/Vietnam War, 1961-1975", 
         "Armed Forces, Military, War & Weapons/Vietnam War, 1961-1975 - Psychological aspects", 
-        "Armed Forces, Military, War & Weapons"
+        "Armed Forces, Military, War & Weapons/Military life"
     ], 
     "abstract": [
         "'In a nutshell, my relationship with my father was never good.'"
@@ -88,7 +88,8 @@
     ], 
     "part_of_compliation_title_or_vod_package": [
         "Compilation title; B2002409; In our words: stories from Victorian veterans [November 2010]; Active; 2010", 
-        "VoD Program; B2002846; In our Words: Stories from Victorian Veterans, Part Two; Active; 2013"
+        "VoD Program; B2002846; In our Words: Stories from Victorian Veterans, Part Two; Active; 2013", 
+        "VoD Program; B2003210; Vietnam Remembered; Active; 2016"
     ], 
     "related_objects": [
         ""
@@ -100,7 +101,9 @@
         ""
     ], 
     "active_carriers_public_types_and_formats_only": [
+        "DVCAM; Master", 
         "Mediatheque VoD Digital Access Copy", 
+        "DVCAM; Sub-master", 
         "DVD [PAL]; Access Print (Section 1)"
     ]
 }

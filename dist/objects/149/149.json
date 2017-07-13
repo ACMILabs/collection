@@ -1,0 +1,108 @@
+{
+    "system_id": 149, 
+    "permalink": "http://collections.acmi.net.au/objects/149", 
+    "record_type": "Compilation title", 
+    "acmi_identifier": "B1000158", 
+    "title": "RMIT AIM Collection 1993", 
+    "other_title": [
+        ""
+    ], 
+    "other_title_type": [
+        ""
+    ], 
+    "place_of_production": [
+        "Australia"
+    ], 
+    "creation_date": [
+        "1993"
+    ], 
+    "creator_contributor_role": [
+        "Animation and Interactive Media (AIM) RMIT, production company", 
+        "Swinburne University of Technology, production facilities"
+    ], 
+    "colour": [
+        "Colour"
+    ], 
+    "sound_audio": [
+        "Sound"
+    ], 
+    "language_keywords": [
+        "English"
+    ], 
+    "other_languages": [
+        ""
+    ], 
+    "other_language_type": [
+        ""
+    ], 
+    "other_language_notes": [
+        ""
+    ], 
+    "length": [
+        "01:11:33"
+    ], 
+    "audience_classification": [
+        "ACMI classified"
+    ], 
+    "viewing_guidelines": [
+        "Educational use only"
+    ], 
+    "form": [
+        "Short films", 
+        "Short films/Short films - Australia"
+    ], 
+    "genre": [
+        "Animation", 
+        "Amateur & Student Films", 
+        "Animation/Animated films - Australia", 
+        "Amateur & Student Films/Student films - Australia"
+    ], 
+    "subject_group": [
+        ""
+    ], 
+    "abstract": [
+        "1993 student animations from RMIT (AIM)."
+    ], 
+    "description": [
+        "Compilation of student work from the University of RMIT Animation and Interactive Media (AIM) Department. 1993. The Centre for Animation and Interactive Media, its courses, facilities, staff and collection of work was transferred from Swinburne University of Technology to RMIT University in 1995."
+    ], 
+    "member_object": [
+        "Title; B1001674; Achille's heel; Active; 1993", 
+        "Title; B1001759; Autarky; Active; 1993", 
+        "Title; B1001698; Beach party; Active; 1993", 
+        "Title; B1001697; Bert; Active; 1993", 
+        "Title; B1001673; Bongo's beat; Active; 1993", 
+        "Title; B1001671; The Boot, the carrot and the bug; Active; 1993", 
+        "Title; B1001672; The Day of the possum; Active; 1993", 
+        "Title; B1001699; The Dinner party; Active; 1993", 
+        "Title; B1001758; Frickenstein; Active; 1993", 
+        "Title; B1001628; Guru Vishnu; Active; 1993", 
+        "Title; B1001702; Jinn; Active; 1993", 
+        "Title; B1001696; Lucky dip; Active; 1993", 
+        "Title; B1001701; The Magician; Active; 1993", 
+        "Title; B1001668; Nightbreaker; Active; 1993", 
+        "Title; B1001630; SAG; Active; 1993", 
+        "Title; B1001629; Tchookovsky; Active; 1993", 
+        "Title; B1001620; The Vending machine; Active; 1993", 
+        "Title; B1001700; The Wonderful world of fish. Episode 3: selecting and preparing fresh seafood; Active; 1993"
+    ], 
+    "part_of_compliation_title_or_vod_package": [
+        ""
+    ], 
+    "related_objects": [
+        "Collection; B1005258; Memory Grid Student Work Collection; Active", 
+        "Collection; B1006080; Memory Grid Tertiary Student Work Collection; Active"
+    ], 
+    "object_relationship": [
+        "higher term", 
+        "higher term"
+    ], 
+    "related_object_notes": [
+        ""
+    ], 
+    "active_carriers_public_types_and_formats_only": [
+        "VHS [PAL]; Reference - timecoded", 
+        "Digital Betacam [PAL]; Master", 
+        "Digital Betacam [PAL]; Sub-master"
+    ]
+}

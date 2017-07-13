@@ -1,0 +1,92 @@
+{
+    "system_id": 251, 
+    "permalink": "http://collections.acmi.net.au/objects/251", 
+    "record_type": "Title", 
+    "acmi_identifier": "B1001189", 
+    "title": "Synthetics. Volume 4", 
+    "other_title": [
+        "Stephen Jones"
+    ], 
+    "other_title_type": [
+        "Alternative Title"
+    ], 
+    "place_of_production": [
+        "Australia"
+    ], 
+    "creation_date": [
+        "2000"
+    ], 
+    "creator_contributor_role": [
+        "Alessio Cavallaro, producer", 
+        "Alessio Cavallaro, curator", 
+        "Stephen Jones, creator", 
+        "Stephen Jones, researcher"
+    ], 
+    "colour": [
+        ""
+    ], 
+    "sound_audio": [
+        ""
+    ], 
+    "language_keywords": [
+        "English"
+    ], 
+    "other_languages": [
+        ""
+    ], 
+    "other_language_type": [
+        ""
+    ], 
+    "other_language_notes": [
+        ""
+    ], 
+    "length": [
+        ""
+    ], 
+    "audience_classification": [
+        ""
+    ], 
+    "viewing_guidelines": [
+        ""
+    ], 
+    "form": [
+        ""
+    ], 
+    "genre": [
+        ""
+    ], 
+    "subject_group": [
+        ""
+    ], 
+    "abstract": [
+        "Folder of material relating to Stephen Jones."
+    ], 
+    "description": [
+        "Volume 4 of a 4 volume CD-ROM collection of material compiled by Stephen Jones for the exhibition formally known as Synthetics. Content is arranged in folders and as a collection of texts, images and hypertexts. The main folder contains material relating to the work of Stephen Jones. (see: Documentation for details)"
+    ], 
+    "member_object": [
+        ""
+    ], 
+    "part_of_compliation_title_or_vod_package": [
+        ""
+    ], 
+    "related_objects": [
+        "Title; B1000163; Exhibition formally known as Synthetics (EFKS); Active; 2000", 
+        "Collection; B1000363; Screen Gallery; Active", 
+        "Title; B1001190; Stephen Jones; Unconfirmed"
+    ], 
+    "object_relationship": [
+        "", 
+        "higher term", 
+        "lower term"
+    ], 
+    "related_object_notes": [
+        "", 
+        "", 
+        "This is a folder containing other folders"
+    ], 
+    "active_carriers_public_types_and_formats_only": [
+        "CD ROM [PC]; Master", 
+        "CD ROM [PC]; Copy"
+    ]
+}

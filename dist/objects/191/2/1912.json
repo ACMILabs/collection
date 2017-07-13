@@ -1,0 +1,92 @@
+{
+    "system_id": 1912, 
+    "permalink": "http://collections.acmi.net.au/objects/1912", 
+    "record_type": "Title", 
+    "acmi_identifier": "B1004626", 
+    "title": "Momma don't allow", 
+    "other_title": [
+        ""
+    ], 
+    "other_title_type": [
+        ""
+    ], 
+    "place_of_production": [
+        "United Kingdom"
+    ], 
+    "creation_date": [
+        "1950"
+    ], 
+    "creator_contributor_role": [
+        "Karel Reisz, director", 
+        "Karel Reisz, creator", 
+        "Tony Richardson, director", 
+        "Tony Richardson, creator"
+    ], 
+    "colour": [
+        ""
+    ], 
+    "sound_audio": [
+        ""
+    ], 
+    "language_keywords": [
+        "English"
+    ], 
+    "other_languages": [
+        ""
+    ], 
+    "other_language_type": [
+        ""
+    ], 
+    "other_language_notes": [
+        ""
+    ], 
+    "length": [
+        "00:22:00"
+    ], 
+    "audience_classification": [
+        ""
+    ], 
+    "viewing_guidelines": [
+        ""
+    ], 
+    "form": [
+        "Short films", 
+        "Short films/Short films - Great Britain"
+    ], 
+    "genre": [
+        "Performance", 
+        "Documentary", 
+        "Documentary/Documentary films - Great Britain", 
+        "Performance/Music - Performance"
+    ], 
+    "subject_group": [
+        "Music & Performing Arts/Jazz music"
+    ], 
+    "abstract": [
+        "a documentary looking at English youth exploring the jazz scene"
+    ], 
+    "description": [
+        "This early key work by Karel Reisz and Tony Richardson follows a group of young English men and women going out and exploring the jazz clubs of London. Made as part of the Free Cinema documentary movement, Momma Don't Allow is observational rather than didactic, capturing the joy and pleasure of music, going out and being part of a gang."
+    ], 
+    "member_object": [
+        ""
+    ], 
+    "part_of_compliation_title_or_vod_package": [
+        "Compilation title; B2000303; Screen Lounge compilation; Active; 1950-1957"
+    ], 
+    "related_objects": [
+        "Collection; B1005390; Exhibition Collection; Active; 01 Dec 1998"
+    ], 
+    "object_relationship": [
+        "higher term"
+    ], 
+    "related_object_notes": [
+        ""
+    ], 
+    "active_carriers_public_types_and_formats_only": [
+        "Digital Betacam; Master", 
+        "Digital Betacam; Sub-master", 
+        "VHS [PAL]; Reference - timecoded", 
+        "VHS [PAL]; Copy"
+    ]
+}

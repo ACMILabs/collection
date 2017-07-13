@@ -3,7 +3,7 @@
     "permalink": "http://collections.acmi.net.au/objects/56708", 
     "record_type": "Title", 
     "acmi_identifier": "508205", 
-    "title": "Not crippled, not useless", 
+    "title": "Not Crippled, Not Useless", 
     "other_title": [
         ""
     ], 
@@ -82,6 +82,9 @@
     "active_carriers_public_types_and_formats_only": [
         "VHS; Access Print (Section 1)", 
         "VHS; Access Print (Section 1)", 
-        "VHS; Access Print (Section 1)"
+        "VHS; Access Print (Section 1)", 
+        "MOV file H264; ACMI Digital Access Copy - presentation", 
+        "MOV file ProRes4444; Digital Preservation Master - presentation", 
+        "MOV file ProRes4444; Digital Preservation Master - overscan"
     ]
 }

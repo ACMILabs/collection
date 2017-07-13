@@ -1,0 +1,99 @@
+{
+    "system_id": 2840, 
+    "permalink": "http://collections.acmi.net.au/objects/2840", 
+    "record_type": "Compilation title", 
+    "acmi_identifier": "B1006237", 
+    "title": "Swinburne EDIM Graduate Screening 2003 - ScreenLife", 
+    "other_title": [
+        "Screenlife"
+    ], 
+    "other_title_type": [
+        "Alternative Title"
+    ], 
+    "place_of_production": [
+        "VIC/Australia"
+    ], 
+    "creation_date": [
+        "2003"
+    ], 
+    "creator_contributor_role": [
+        "Swinburne University of Technology - Electronic Design and Interactive Media, creator", 
+        "Swinburne University of Technology - Electronic Design and Interactive Media, production company"
+    ], 
+    "colour": [
+        ""
+    ], 
+    "sound_audio": [
+        ""
+    ], 
+    "language_keywords": [
+        ""
+    ], 
+    "other_languages": [
+        ""
+    ], 
+    "other_language_type": [
+        ""
+    ], 
+    "other_language_notes": [
+        ""
+    ], 
+    "length": [
+        ""
+    ], 
+    "audience_classification": [
+        ""
+    ], 
+    "viewing_guidelines": [
+        ""
+    ], 
+    "form": [
+        ""
+    ], 
+    "genre": [
+        ""
+    ], 
+    "subject_group": [
+        ""
+    ], 
+    "abstract": [
+        "Compilation showreel - EDIM 2003"
+    ], 
+    "description": [
+        "Compilation showreel from end of year screening - graduating class EDIM course, Swinburne"
+    ], 
+    "member_object": [
+        "Title; B1006437; Arvo' tea; Active", 
+        "Title; B1006445; Beta homes & gardens; Active", 
+        "Title; B1006435; Electric funeral; Active", 
+        "Title; B1006444; Feel-O-Mercials; Active", 
+        "Title; B1006442; FSBS Zenith review; Active; 2003", 
+        "Title; B1006446; Hellavision; Active", 
+        "Title; B1006434; I'm here; Active", 
+        "Title; B1006448; Illumin; Active", 
+        "Title; B1006438; Lightfalls; Active", 
+        "Title; B1006439; Nancybird; Active", 
+        "Title; B1006443; Nexus; Active", 
+        "Title; B1006436; The Night terrors; Active", 
+        "Title; B1006447; Stencil; Active", 
+        "Title; B1006441; Thom's doll; Active; 2003", 
+        "Title; B1006440; Virtual hostility; Active; 2003"
+    ], 
+    "part_of_compliation_title_or_vod_package": [
+        ""
+    ], 
+    "related_objects": [
+        "Collection; B1005258; Memory Grid Student Work Collection; Active"
+    ], 
+    "object_relationship": [
+        "higher term"
+    ], 
+    "related_object_notes": [
+        ""
+    ], 
+    "active_carriers_public_types_and_formats_only": [
+        "Digital Betacam; Master", 
+        "Digital Betacam; Sub-master", 
+        "VHS [PAL]; Reference - timecoded"
+    ]
+}

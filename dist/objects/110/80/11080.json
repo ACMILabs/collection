@@ -1,0 +1,101 @@
+{
+    "system_id": 11080, 
+    "permalink": "http://collections.acmi.net.au/objects/11080", 
+    "record_type": "Compilation title", 
+    "acmi_identifier": "B1006618", 
+    "title": "Victoria's favourite things", 
+    "other_title": [
+        "Victorias favourite things"
+    ], 
+    "other_title_type": [
+        "Alternative Title"
+    ], 
+    "place_of_production": [
+        "VIC/Australia"
+    ], 
+    "creation_date": [
+        "2004"
+    ], 
+    "creator_contributor_role": [
+        "ACMI Open House, producer", 
+        "ACMI Open House, Program Developer"
+    ], 
+    "colour": [
+        "Colour"
+    ], 
+    "sound_audio": [
+        "Sound"
+    ], 
+    "language_keywords": [
+        "English"
+    ], 
+    "other_languages": [
+        ""
+    ], 
+    "other_language_type": [
+        ""
+    ], 
+    "other_language_notes": [
+        ""
+    ], 
+    "length": [
+        "01:16:26"
+    ], 
+    "audience_classification": [
+        "ACMI classified"
+    ], 
+    "viewing_guidelines": [
+        "Educational use only"
+    ], 
+    "form": [
+        ""
+    ], 
+    "genre": [
+        ""
+    ], 
+    "subject_group": [
+        "Economics, Philosophy, Politics, Religion & Sociology/Communities", 
+        "Anthropology, Ethnology, Exploration & Travel/Victoria - Social life and customs", 
+        "Advertising, Film, Journalism, Mass Media & TV/Interactive media", 
+        "Places/Melbourne (Vic.)"
+    ], 
+    "abstract": [
+        "The results of July 2004 's Open House weekend program 'Victoria's Favourite Things'"
+    ], 
+    "description": [
+        "Check out what people brought to ACMI for July's Open House weekend program 'Victoria's Favourite Things'. Recorded live in ACMI's Screen Pit, the event was modelled on a 1960's variety show and includes songs, stories, bad jokes and some really interesting stuff."
+    ], 
+    "member_object": [
+        "Title; B2000010; Victoria's Favourite Things. Segment 1; Active; 2004", 
+        "Title; B2000011; Victoria's Favourite Things. Segment 2; Active; 2004", 
+        "Title; B2000013; Victoria's Favourite Things. Segment 3; Active; 2004", 
+        "Title; B2000015; Victoria's Favourite Things. Segment 4; Active; 01 Nov 2004", 
+        "Title; B2000017; Victoria's Favourite Things. Segment 5; Active; 01 Nov 2004", 
+        "Title; B2000019; Victoria's Favourite Things. Segment 6; Active; 01 Nov 2004", 
+        "Title; B2000022; Victoria's Favourite Things. Segment 7; Active; 01 Nov 2004", 
+        "Title; B2000024; Victoria's Favourite Things. Segment 8; Active; 01 Nov 2004", 
+        "Title; B2000026; Victoria's Favourite Things. Segment 9; Active; 01 Nov 2004", 
+        "Title; B2000028; Victoria's Favourite Things. Segment 10; Active; 01 Nov 2004", 
+        "Title; B2000030; Victoria's Favourite Things. Segment 11; Active; 01 Nov 2004"
+    ], 
+    "part_of_compliation_title_or_vod_package": [
+        ""
+    ], 
+    "related_objects": [
+        "Collection; B1005695; Memory Grid Made @ ACMI Collection; Active"
+    ], 
+    "object_relationship": [
+        "higher term"
+    ], 
+    "related_object_notes": [
+        ""
+    ], 
+    "active_carriers_public_types_and_formats_only": [
+        "DVCAM; Master", 
+        "DVCAM; Sub-master", 
+        "VHS [PAL]; Reference - timecoded", 
+        "DVCAM; Master", 
+        "DVCAM; Sub-master", 
+        "VHS [PAL]; Reference - timecoded"
+    ]
+}
