@@ -11,14 +11,6 @@ Metadata archive locations:
 * `TSV` spreadsheet: [/app/tsv/works.tsv](https://github.com/ACMILabs/acmi-api/blob/main/app/tsv/works.tsv)
 * `JSON` metadata: [/app/json/works/](https://github.com/ACMILabs/acmi-api/tree/main/app/json/works)
 
-## URL redirects
-
-We have a redirect in place from `https://collections.acmi.net.au/<acmi_identifier>` to `https://www.acmi.net.au/works/<xos_id>--<xos_slug>`
-
-It uses the ACMI Public API Search to retrieve the `xos_id` (`id`) and `xos_slug` (`slug`) from an `acmi_identifier`. e.g. for the ACMI identifier `X001564`, the [search](https://api.acmi.net.au/search/?query=X001564&field=acmi_id) returns `'id': 116498`
-
-XOS refers to the [eXhibitions Operating System](https://github.com/ACMILabs/xos) ACMI created whose private APIs power the SOMI experience.
-
 ## Release and license
 
 The dataset is released under the most open license available --- Creative Commons Zero. This brings the data in line with other releases from Europeana, Cooper Hewitt Smithsonian Design Museum, Tate, MOMA, and Digital Public Library of America (DPLA) and offers the most compatibility and clarity of use for international users.
