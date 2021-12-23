@@ -1,5 +1,16 @@
 # ACMI Collection Data
 
+**Deprecated**: this Collection archive has now been deprecated.
+
+Please see our Collections API: https://api.acmi.net.au
+
+The Github repository can be found at: https://github.com/ACMILabs/acmi-api
+
+Metadata archive locations:
+
+* `TSV` spreadsheet: [/app/tsv/works.tsv](https://github.com/ACMILabs/acmi-api/blob/main/app/tsv/works.tsv)
+* `JSON` metadata: [/app/json/works/](https://github.com/ACMILabs/acmi-api/tree/main/app/json/works)
+
 ## Release and license
 
 The dataset is released under the most open license available --- Creative Commons Zero. This brings the data in line with other releases from Europeana, Cooper Hewitt Smithsonian Design Museum, Tate, MOMA, and Digital Public Library of America (DPLA) and offers the most compatibility and clarity of use for international users.
